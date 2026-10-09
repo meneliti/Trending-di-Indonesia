@@ -2,67 +2,206 @@
 """
 Trending di Indonesia
 =====================
-Mengambil 25 tren penelusuran Google Trends Indonesia (24 jam terakhir) langsung
-dari https://trends.google.com/trending?geo=ID — lengkap dengan volume penelusuran,
-persentase kenaikan, sejak kapan aktif, dan kueri terkait — lalu memperbarui
-tabel di README.md.
+Mengambil SEMUA tren penelusuran Google Trends Indonesia (24 jam terakhir) —
+bukan hanya 25 — dengan menelusuri seluruh halaman paging lewat Google Chrome/
+Chromium yang berjalan dengan remote debugging (CDP).
 
 Cara pakai:
     python3 scrape_trending.py            # update README.md
     python3 scrape_trending.py --print    # hanya tampilkan hasil di terminal
 
-Tidak butuh API key / dependensi eksternal (stdlib murni, Python 3.8+).
+Prasyarat:
+    Google Chrome/Chromium berjalan dengan --remote-debugging-port (default 9222,
+    bisa di-override lewat env CDP_URL, mis. http://127.0.0.1:39221).
+
+Tanpa API key & tanpa dependensi eksternal (stdlib murni, Python 3.8+).
 """
-import html
+import base64
 import json
+import os
 import re
+import socket
+import struct
 import sys
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
-URL = "https://trends.google.com/trending?geo=ID&hl=id"
+TRENDS_URL = "https://trends.google.com/trending?geo=ID&hl=id"
+CDP_URL = os.environ.get("CDP_URL", "http://127.0.0.1:9222")
 README = "README.md"
+MAX_PAGES = 15  # pengaman
 
 WIB = timezone(timedelta(hours=7))
 BULAN_ID = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli",
             "Agustus", "September", "Oktober", "November", "Desember"]
 
+JS_COLLECT = r"""
+(() => {
+  const out = [];
+  document.querySelectorAll('tr').forEach(t => {
+    const q = t.querySelector('.mZ3RIc');
+    if (!q) return;
+    const vol = t.querySelector('.lqv0Cb');
+    const pct = t.querySelector('.TXt85b');
+    const since = t.querySelector('.vdw3Ld');
+    const seen = new Set();
+    const rel = [];
+    t.querySelectorAll('[data-term]').forEach(e => {
+      const d = e.getAttribute('data-term');
+      if (d && !seen.has(d)) { seen.add(d); rel.push(d); }
+    });
+    out.push({
+      query: q.innerText.trim(),
+      volume: vol ? vol.innerText.trim() : '',
+      change: pct ? pct.innerText.trim() : '',
+      since: since ? since.innerText.trim() : '',
+      related: rel.slice(0, 4),
+    });
+  });
+  const next = [...document.querySelectorAll('button')].find(
+    b => b.getAttribute('aria-label') === 'Buka halaman berikutnya');
+  const disabled = next ? (next.disabled || next.getAttribute('aria-disabled') === 'true') : true;
+  return JSON.stringify({rows: out, hasNext: !disabled});
+})()
+"""
 
-def fetch_page():
-    req = urllib.request.Request(URL, headers={
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
-        "Accept-Language": "id-ID,id;q=0.9",
-    })
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read().decode("utf-8", errors="replace")
+JS_CLICK_NEXT = r"""
+(() => {
+  const next = [...document.querySelectorAll('button')].find(
+    b => b.getAttribute('aria-label') === 'Buka halaman berikutnya');
+  if (next) { next.click(); return true; }
+  return false;
+})()
+"""
 
 
-def parse(htmlsrc):
-    """Ekstrak baris tren dari HTML SSR halaman trending."""
-    rows = []
-    for t in re.split(r"<tr[ >]", htmlsrc):
-        if 'class="mZ3RIc"' not in t:
-            continue
-        mq = re.search(r'class="mZ3RIc">([^<]+)<', t)
-        if not mq:
-            continue
-        vol = re.search(r'<div class="lqv0Cb">([^<]+)</div>', t)
-        pct = re.search(r'<div class="TXt85b">([^<]+)</div>', t)
-        since = re.search(r'<div class="vdw3Ld"[^>]*>([^<]+)</div>', t)
-        seen, rel = set(), []
-        for term in re.findall(r'data-term="([^"]+)"', t):
-            if term not in seen:
-                seen.add(term)
-                rel.append(term)
-        rows.append({
-            "query": html.unescape(mq.group(1)).strip(),
-            "volume": vol.group(1).replace("\xa0", " ") if vol else "",
-            "change": pct.group(1) if pct else "",
-            "active_since": html.unescape(since.group(1)) if since else "",
-            "related": rel,
-        })
-    return rows
+# ---------- CDP helpers (websocket + HTTP, stdlib murni) ----------
 
+def _http_json(path):
+    with urllib.request.urlopen(CDP_URL + path, timeout=15) as r:
+        return json.load(r)
+
+
+class CDP:
+    """Klien CDP minimal di atas satu websocket tab."""
+
+    def __init__(self):
+        targets = _http_json("/json/list")
+        page = next((t for t in targets if t["type"] == "page"), targets[0])
+        self.ws_url = page["webSocketDebuggerUrl"]
+        self.sock = self._ws_connect(self.ws_url)
+        self._id = 0
+
+    @staticmethod
+    def _ws_connect(ws_url):
+        host, port = ws_url.split("/")[2].rsplit(":", 1)
+        path = "/" + ws_url.split("/", 3)[3]
+        key = base64.b64encode(os.urandom(16)).decode()
+        req = (f"GET {path} HTTP/1.1\r\nHost: {host}:{port}\r\n"
+               "Upgrade: websocket\r\nConnection: Upgrade\r\n"
+               f"Sec-WebSocket-Key: {key}\r\nSec-WebSocket-Version: 13\r\n\r\n")
+        sock = socket.create_connection((host, int(port)), timeout=60)
+        sock.sendall(req.encode())
+        resp = b""
+        while b"\r\n\r\n" not in resp:
+            resp += sock.recv(4096)
+        if b"101" not in resp.split(b"\r\n", 1)[0]:
+            raise ConnectionError("websocket handshake gagal: " + resp[:120].decode(errors="replace"))
+        return sock
+
+    @staticmethod
+    def _read_exact(sock, n):
+        buf = b""
+        while len(buf) < n:
+            chunk = sock.recv(n - len(buf))
+            if not chunk:
+                raise ConnectionError("websocket tertutup")
+            buf += chunk
+        return buf
+
+    def _recv_frame(self):
+        hdr = self._read_exact(self.sock, 2)
+        ln = hdr[1] & 0x7F
+        if ln == 126:
+            ln = struct.unpack(">H", self._read_exact(self.sock, 2))[0]
+        elif ln == 127:
+            ln = struct.unpack(">Q", self._read_exact(self.sock, 8))[0]
+        return self._read_exact(self.sock, ln).decode("utf-8", errors="replace")
+
+    def _send_frame(self, payload: bytes):
+        # client -> server harus di-mask
+        mask = os.urandom(4)
+        ln = len(payload)
+        if ln < 126:
+            hdr = struct.pack("!BB", 0x81, 0x80 | ln)
+        elif ln < 65536:
+            hdr = struct.pack("!BBH", 0x81, 0x80 | 126, ln)
+        else:
+            hdr = struct.pack("!BBQ", 0x81, 0x80 | 127, ln)
+        masked = bytes(b ^ mask[i % 4] for i, b in enumerate(payload))
+        self.sock.sendall(hdr + mask + masked)
+
+    def call(self, method, params=None):
+        self._id += 1
+        mid = self._id
+        self._send_frame(json.dumps({"id": mid, "method": method,
+                                     "params": params or {}}).encode())
+        while True:
+            data = json.loads(self._recv_frame())
+            if data.get("id") == mid:
+                if "error" in data:
+                    raise RuntimeError(f"{method}: {data['error']}")
+                return data.get("result", {})
+
+    def eval_js(self, expression):
+        r = self.call("Runtime.evaluate",
+                      {"expression": expression, "returnByValue": True,
+                       "awaitPromise": True})
+        return r.get("result", {}).get("value")
+
+    def close(self):
+        try:
+            self.sock.close()
+        except Exception:
+            pass
+
+
+# ---------- scraping ----------
+
+def scrape_all():
+    import time
+    cdp = CDP()
+    try:
+        cdp.call("Page.enable")
+        cdp.call("Page.navigate", {"url": TRENDS_URL})
+        time.sleep(10)  # tunggu render penuh
+
+        seen = {}
+        for page in range(MAX_PAGES):
+            val = cdp.eval_js(JS_COLLECT)
+            if not val:
+                print("  (halaman belum siap, coba lagi...)")
+                time.sleep(5)
+                val = cdp.eval_js(JS_COLLECT)
+                if not val:
+                    break
+            data = json.loads(val)
+            new = 0
+            for row in data["rows"]:
+                if row["query"] and row["query"] not in seen:
+                    seen[row["query"]] = row
+                    new += 1
+            print(f"  halaman {page + 1}: +{new} baru (total {len(seen)})")
+            if not data["hasNext"] or new == 0:
+                break
+            cdp.eval_js(JS_CLICK_NEXT)
+            time.sleep(5)  # tunggu render halaman berikutnya
+        return list(seen.values())
+    finally:
+        cdp.close()
+
+
+# ---------- format ----------
 
 def build_table(rows):
     lines = []
@@ -70,21 +209,21 @@ def build_table(rows):
     lines.append("|---|---|---|---|---|---|")
     for i, r in enumerate(rows, 1):
         q = r["query"].replace("|", "\\|")
-        rel = ", ".join(x.replace("|", "\\|") for x in r["related"][:3]) or "–"
+        rel = ", ".join(x.replace("|", "\\|") for x in r.get("related", [])[:3]) or "–"
         lines.append(
-            f"| {i} | **{q}** | {r['volume'] or '–'} | {r['change'] or '–'} "
-            f"| {r['active_since'] or '–'} | {rel} |"
+            f"| {i} | **{q}** | {r.get('volume') or '–'} | {r.get('change') or '–'} "
+            f"| {r.get('since') or '–'} | {rel} |"
         )
     return "\n".join(lines)
 
 
 def main():
     show_only = "--print" in sys.argv
-    print("Mengambil halaman Google Trends ID...")
-    rows = parse(fetch_page())
+    print("Mengambil SEMUA tren Google Trends ID (menelusuri semua halaman paging)...")
+    rows = scrape_all()
     print(f"Dapat {len(rows)} tren")
     if not rows:
-        print("Tidak ada data, batal.")
+        print("Tidak ada data, batal (pastikan Chrome berjalan dengan remote debugging).")
         return 1
 
     table = build_table(rows)
@@ -94,12 +233,16 @@ def main():
 
     now = datetime.now(WIB)
     updated = now.strftime(f"%d {BULAN_ID[now.month - 1]} %Y, %H:%M WIB")
-    top = rows[0]
-    total_vol = sum(int(re.sub(r"[^\d]", "", r["volume"]) or 0) for r in rows)
+    total_vol = sum(int(re.sub(r"[^\d]", "", r.get("volume", "")) or 0) for r in rows)
+    total_vol_fmt = f"{total_vol:,}".replace(",", ".")
 
-    header = f"""# 🔥 Trending di Indonesia
+    podium = "\n".join(
+        f"| {medal} | **{rows[i]['query']}** | {rows[i].get('volume', '–')} | ▲ {rows[i].get('change', '–')} |"
+        for i, medal in enumerate(["🥇", "🥈", "🥉"]) if i < len(rows))
 
-**25 tren penelusuran teratas** di Google Trends Indonesia (24 jam terakhir) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
+    content = f"""# 🔥 Trending di Indonesia
+
+**Semua tren penelusuran Google Trends Indonesia** (24 jam terakhir, {len(rows)} entri — seluruh halaman paging, bukan hanya 25 besar) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
 
 > 🕒 **Terakhir diperbarui: {updated}**
 
@@ -107,17 +250,14 @@ def main():
 
 | | Tren | Volume | Kenaikan |
 |---|---|---|---|
-| 🥇 | **{rows[0]['query']}** | {rows[0]['volume']} | ▲ {rows[0]['change']} |
-| 🥈 | **{rows[1]['query']}** | {rows[1]['volume']} | ▲ {rows[1]['change']} |
-| 🥉 | **{rows[2]['query']}** | {rows[2]['volume']} | ▲ {rows[2]['change']} |
+{podium}
 
-*Total volume penelusuran gabungan: ±{total_vol:,}+ penelusuran*
+*Total volume penelusuran gabungan: ±{total_vol_fmt}+ penelusuran*
 
-## 📋 Daftar Lengkap 25 Tren
+## 📋 Daftar Lengkap {len(rows)} Tren
 
 {table}
-"""
-    footer = """
+
 ## 📖 Keterangan Kolom
 
 - **Tren** — kata kunci yang sedang banyak dicari di Google Indonesia
@@ -128,28 +268,23 @@ def main():
 
 ## ⚙️ Cara Kerja
 
-Script `scrape_trending.py` mengambil data langsung dari halaman trending Google Trends Indonesia dan memperbarui tabel di halaman ini otomatis setiap 2 jam.
+Script `scrape_trending.py` menelusuri **seluruh halaman paging** halaman trending Google Trends Indonesia (bukan hanya 25 pertama) lewat Chrome/Chromium headless dengan remote debugging, lalu memperbarui tabel di halaman ini otomatis setiap 2 jam.
 
 Jalankan sendiri:
 
 ```bash
+# prasyarat: Chrome berjalan dengan remote debugging
+google-chrome --headless=new --remote-debugging-port=9222 &
 python3 scrape_trending.py          # update README.md
 python3 scrape_trending.py --print  # lihat hasil di terminal
 ```
 
-Tanpa dependensi eksternal — cukup Python 3.8+.
-
-## 👥 Kunjungan
-
-<img src="https://s01.flagcounter.com/countxl/qaoY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Visitor Counter">
+Tanpa API key & dependensi eksternal — stdlib murni (websocket CDP ditulis manual).
 
 ---
 
 *by PT. Pastiin Siber Indonesia*
 """
-    # rapikan angka total volume (ganti koma ribuan jadi titik)
-    header = header.replace(f"{total_vol:,}", f"{total_vol:,}".replace(",", "."))
-    content = header + "\n" + table + "\n" + footer
     with open(README, "w") as f:
         f.write(content)
     print(f"README.md diperbarui ({len(rows)} tren)")
