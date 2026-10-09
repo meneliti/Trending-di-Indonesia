@@ -27,7 +27,62 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 
 TRENDS_URL = "https://trends.google.com/trending?geo=ID&hl=id"
-CDP_URL = os.environ.get("CDP_URL", "http://127.0.0.1:9222")
+CDP_URL = os.environ.get("CDP_URL", "")  # override manual bila perlu
+
+
+def find_cdp():
+    """Cari port CDP Chrome; kalau tidak ada, luncurkan Chrome headless sendiri."""
+    if CDP_URL:
+        return CDP_URL
+    for port in (9222, 39221):
+        try:
+            with urllib.request.urlopen(f"http://127.0.0.1:{port}/json/version", timeout=3):
+                return f"http://127.0.0.1:{port}"
+        except Exception:
+            continue
+    import glob
+    for p in glob.glob(os.path.expanduser("~/.hermes/cache/scratch/agent-browser-chrome-*/DevToolsActivePort")) \
+            + glob.glob("/tmp/.org.chromium.Chromium.*/DevToolsActivePort"):
+        try:
+            port = open(p).read().split()[0]
+            with urllib.request.urlopen(f"http://127.0.0.1:{port}/json/version", timeout=3):
+                return f"http://127.0.0.1:{port}"
+        except Exception:
+            continue
+    return launch_chrome()
+
+
+def launch_chrome():
+    """Luncurkan Chrome/Chromium headless dengan remote debugging, kembalikan base URL."""
+    import glob
+    import subprocess
+    import time
+
+    candidates = (glob.glob(os.path.expanduser(
+        "~/.cache/ms-playwright/chromium-*/chrome-linux64/chrome"))
+        + ["/usr/bin/chromium", "/usr/bin/chromium-browser",
+           "/usr/bin/google-chrome", "/usr/bin/google-chrome-stable"])
+    binary = next((c for c in candidates if os.path.exists(c)), None)
+    if not binary:
+        raise RuntimeError("Chrome/Chromium tidak ditemukan")
+
+    profile = os.path.expanduser("~/.trends-chrome-profile")
+    os.makedirs(profile, exist_ok=True)
+    subprocess.Popen(
+        [binary, "--headless=new", "--no-sandbox", "--disable-gpu",
+         "--disable-dev-shm-usage", "--no-first-run",
+         f"--user-data-dir={profile}",
+         "--remote-debugging-port=9222", "about:blank"],
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        start_new_session=True)
+    for _ in range(20):
+        time.sleep(1)
+        try:
+            with urllib.request.urlopen("http://127.0.0.1:9222/json/version", timeout=3):
+                return "http://127.0.0.1:9222"
+        except Exception:
+            continue
+    raise RuntimeError("Chrome diluncurkan tapi CDP tidak merespons di port 9222")
 README = "README.md"
 MAX_PAGES = 15  # pengaman
 
@@ -78,7 +133,8 @@ JS_CLICK_NEXT = r"""
 # ---------- CDP helpers (websocket + HTTP, stdlib murni) ----------
 
 def _http_json(path):
-    with urllib.request.urlopen(CDP_URL + path, timeout=15) as r:
+    base = find_cdp()
+    with urllib.request.urlopen(base + path, timeout=15) as r:
         return json.load(r)
 
 
