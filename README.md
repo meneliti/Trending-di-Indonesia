@@ -2,7 +2,7 @@
 
 **25 tren penelusuran teratas** di Google Trends Indonesia (24 jam terakhir) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
 
-> 🕒 **Terakhir diperbarui: 09 Oktober 2026, 09:29 WIB**
+> 🕒 **Terakhir diperbarui: 09 Oktober 2026, 11:29 WIB**
 
 ## 🏆 Tren Paling Panas
 
@@ -10,67 +10,67 @@
 |---|---|---|---|
 | 🥇 | **persib hari ini** | 100 rb+ | ▲ 1.000% |
 | 🥈 | **purbaya yudhi sadewa** | 10 rb+ | ▲ 1.000% |
-| 🥉 | **santos vs flamengo** | 5 rb+ | ▲ 1.000% |
+| 🥉 | **pekan antariksa dunia 2026 tiket** | 5 rb+ | ▲ 400% |
 
-*Total volume penelusuran gabungan: ±2.152+ penelusuran*
+*Total volume penelusuran gabungan: ±1.054+ penelusuran*
 
 ## 📋 Daftar Lengkap 25 Tren
 
 | # | Tren | Volume Penelusuran | Kenaikan | Aktif Sejak | Kueri Terkait |
 |---|---|---|---|---|---|
-| 1 | **persib hari ini** | 100 rb+ | 1.000% | 21 jam yang lalu | klasemen shopee cup 2026, persib bandung |
-| 2 | **purbaya yudhi sadewa** | 10 rb+ | 1.000% | 19 jam yang lalu | purbaya |
-| 3 | **santos vs flamengo** | 5 rb+ | 1.000% | 4 jam yang lalu | santos, santos fc |
-| 4 | **perpres ojol** | 5 rb+ | 700% | 15 jam yang lalu | – |
-| 5 | **pekan antariksa dunia 2026 tiket** | 5 rb+ | 300% | 18 jam yang lalu | pekan antariksa dunia 2026 di negara mana |
-| 6 | **pascal struijk** | 2 rb+ | 300% | 21 jam yang lalu | – |
-| 7 | **syahrini** | 2 rb+ | 300% | 13 jam yang lalu | – |
-| 8 | **mufg danamon** | 2 rb+ | 300% | 14 jam yang lalu | – |
-| 9 | **neymar** | 1 rb+ | 1.000% | 1 jam yang lalu | – |
-| 10 | **palmeiras vs bahia** | 1 rb+ | 1.000% | 2 jam yang lalu | palmeiras |
-| 11 | **indodax** | 1 rb+ | 300% | 10 jam yang lalu | – |
-| 12 | **harga iphone 15** | 2 rb+ | 1.000% | 5 jam yang lalu | harga iphone 18 |
-| 13 | **pasar modal** | 2 rb+ | 300% | 14 jam yang lalu | – |
-| 14 | **acl 2** | 2 rb+ | 300% | 15 jam yang lalu | – |
-| 15 | **alex ferguson** | 1 rb+ | 300% | 8 jam yang lalu | – |
-| 16 | **reino barack** | 1 rb+ | 200% | 12 jam yang lalu | – |
-| 17 | **jadwal barcelona** | 1 rb+ | 1.000% | 15 jam yang lalu | jadwal barca |
-| 18 | **senjata nuklir** | 500+ | 300% | 4 jam yang lalu | – |
-| 19 | **2029** | 1 rb+ | 300% | 11 jam yang lalu | – |
-| 20 | **ahmad doli kurnia** | 1 rb+ | 200% | 4 jam yang lalu | bahtra banong |
-| 21 | **soukphachan lueanthala** | 2 rb+ | 200% | 13 jam yang lalu | tim nasional sepak bola laos |
-| 22 | **fluminense vs coritiba** | 500+ | 300% | 1 jam yang lalu | fluminense |
-| 23 | **serie a brazil** | 500+ | 300% | 3 jam yang lalu | – |
-| 24 | **bpjs ketenagakerjaan** | 5 rb+ | 200% | 7 jam yang lalu | cek bsu bpjs ketenagakerjaan |
-| 25 | **marvel zodiac** | 500+ | 100% | 2 jam yang lalu | zodiac marvel |
+| 1 | **persib hari ini** | 100 rb+ | 1.000% | 23 jam yang lalu | persib bandung, persib vs port fc hari ini |
+| 2 | **purbaya yudhi sadewa** | 10 rb+ | 1.000% | 21 jam yang lalu | – |
+| 3 | **pekan antariksa dunia 2026 tiket** | 5 rb+ | 400% | 20 jam yang lalu | pekan antariksa dunia 2026 dimana indonesia |
+| 4 | **perpres ojol** | 5 rb+ | 700% | 17 jam yang lalu | – |
+| 5 | **santos vs flamengo** | 5 rb+ | 1.000% | 6 jam yang lalu | santos, santos fc |
+| 6 | **syahrini** | 2 rb+ | 400% | 15 jam yang lalu | – |
+| 7 | **pascal struijk** | 5 rb+ | 300% | 23 jam yang lalu | – |
+| 8 | **mufg danamon** | 2 rb+ | 300% | 16 jam yang lalu | – |
+| 9 | **reino barack** | 2 rb+ | 300% | 14 jam yang lalu | – |
+| 10 | **harga iphone 15** | 2 rb+ | 1.000% | 7 jam yang lalu | harga iphone 18 |
+| 11 | **neymar** | 2 rb+ | 1.000% | 3 jam yang lalu | – |
+| 12 | **alex ferguson** | 1 rb+ | 300% | 10 jam yang lalu | – |
+| 13 | **acl 2** | 2 rb+ | 300% | 17 jam yang lalu | – |
+| 14 | **indodax** | 2 rb+ | 300% | 12 jam yang lalu | – |
+| 15 | **jadwal barcelona** | 1 rb+ | 1.000% | 17 jam yang lalu | jadwal barca |
+| 16 | **palmeiras vs bahia** | 1 rb+ | 600% | 4 jam yang lalu | palmeiras |
+| 17 | **susan dell** | 1 rb+ | 300% | 11 jam yang lalu | – |
+| 18 | **2029** | 1 rb+ | 300% | 13 jam yang lalu | – |
+| 19 | **klasemen santos fc vs flamengo** | 1 rb+ | 600% | 3 jam yang lalu | – |
+| 20 | **senjata nuklir** | 1 rb+ | 300% | 6 jam yang lalu | – |
+| 21 | **ahmad doli kurnia** | 2 rb+ | 200% | 6 jam yang lalu | b. j. habibie, gibran mundur |
+| 22 | **jorge martin** | 1 rb+ | 100% | 4 jam yang lalu | jadwal motogp mandalika 2026, jadwal |
+| 23 | **bahtra banong** | 500+ | 100% | 5 jam yang lalu | – |
+| 24 | **khalid basalamah** | 200+ | 100% | 1 jam yang lalu | – |
+| 25 | **gta6** | 200+ | 100% | 2 jam yang lalu | – |
 
 | # | Tren | Volume Penelusuran | Kenaikan | Aktif Sejak | Kueri Terkait |
 |---|---|---|---|---|---|
-| 1 | **persib hari ini** | 100 rb+ | 1.000% | 21 jam yang lalu | klasemen shopee cup 2026, persib bandung |
-| 2 | **purbaya yudhi sadewa** | 10 rb+ | 1.000% | 19 jam yang lalu | purbaya |
-| 3 | **santos vs flamengo** | 5 rb+ | 1.000% | 4 jam yang lalu | santos, santos fc |
-| 4 | **perpres ojol** | 5 rb+ | 700% | 15 jam yang lalu | – |
-| 5 | **pekan antariksa dunia 2026 tiket** | 5 rb+ | 300% | 18 jam yang lalu | pekan antariksa dunia 2026 di negara mana |
-| 6 | **pascal struijk** | 2 rb+ | 300% | 21 jam yang lalu | – |
-| 7 | **syahrini** | 2 rb+ | 300% | 13 jam yang lalu | – |
-| 8 | **mufg danamon** | 2 rb+ | 300% | 14 jam yang lalu | – |
-| 9 | **neymar** | 1 rb+ | 1.000% | 1 jam yang lalu | – |
-| 10 | **palmeiras vs bahia** | 1 rb+ | 1.000% | 2 jam yang lalu | palmeiras |
-| 11 | **indodax** | 1 rb+ | 300% | 10 jam yang lalu | – |
-| 12 | **harga iphone 15** | 2 rb+ | 1.000% | 5 jam yang lalu | harga iphone 18 |
-| 13 | **pasar modal** | 2 rb+ | 300% | 14 jam yang lalu | – |
-| 14 | **acl 2** | 2 rb+ | 300% | 15 jam yang lalu | – |
-| 15 | **alex ferguson** | 1 rb+ | 300% | 8 jam yang lalu | – |
-| 16 | **reino barack** | 1 rb+ | 200% | 12 jam yang lalu | – |
-| 17 | **jadwal barcelona** | 1 rb+ | 1.000% | 15 jam yang lalu | jadwal barca |
-| 18 | **senjata nuklir** | 500+ | 300% | 4 jam yang lalu | – |
-| 19 | **2029** | 1 rb+ | 300% | 11 jam yang lalu | – |
-| 20 | **ahmad doli kurnia** | 1 rb+ | 200% | 4 jam yang lalu | bahtra banong |
-| 21 | **soukphachan lueanthala** | 2 rb+ | 200% | 13 jam yang lalu | tim nasional sepak bola laos |
-| 22 | **fluminense vs coritiba** | 500+ | 300% | 1 jam yang lalu | fluminense |
-| 23 | **serie a brazil** | 500+ | 300% | 3 jam yang lalu | – |
-| 24 | **bpjs ketenagakerjaan** | 5 rb+ | 200% | 7 jam yang lalu | cek bsu bpjs ketenagakerjaan |
-| 25 | **marvel zodiac** | 500+ | 100% | 2 jam yang lalu | zodiac marvel |
+| 1 | **persib hari ini** | 100 rb+ | 1.000% | 23 jam yang lalu | persib bandung, persib vs port fc hari ini |
+| 2 | **purbaya yudhi sadewa** | 10 rb+ | 1.000% | 21 jam yang lalu | – |
+| 3 | **pekan antariksa dunia 2026 tiket** | 5 rb+ | 400% | 20 jam yang lalu | pekan antariksa dunia 2026 dimana indonesia |
+| 4 | **perpres ojol** | 5 rb+ | 700% | 17 jam yang lalu | – |
+| 5 | **santos vs flamengo** | 5 rb+ | 1.000% | 6 jam yang lalu | santos, santos fc |
+| 6 | **syahrini** | 2 rb+ | 400% | 15 jam yang lalu | – |
+| 7 | **pascal struijk** | 5 rb+ | 300% | 23 jam yang lalu | – |
+| 8 | **mufg danamon** | 2 rb+ | 300% | 16 jam yang lalu | – |
+| 9 | **reino barack** | 2 rb+ | 300% | 14 jam yang lalu | – |
+| 10 | **harga iphone 15** | 2 rb+ | 1.000% | 7 jam yang lalu | harga iphone 18 |
+| 11 | **neymar** | 2 rb+ | 1.000% | 3 jam yang lalu | – |
+| 12 | **alex ferguson** | 1 rb+ | 300% | 10 jam yang lalu | – |
+| 13 | **acl 2** | 2 rb+ | 300% | 17 jam yang lalu | – |
+| 14 | **indodax** | 2 rb+ | 300% | 12 jam yang lalu | – |
+| 15 | **jadwal barcelona** | 1 rb+ | 1.000% | 17 jam yang lalu | jadwal barca |
+| 16 | **palmeiras vs bahia** | 1 rb+ | 600% | 4 jam yang lalu | palmeiras |
+| 17 | **susan dell** | 1 rb+ | 300% | 11 jam yang lalu | – |
+| 18 | **2029** | 1 rb+ | 300% | 13 jam yang lalu | – |
+| 19 | **klasemen santos fc vs flamengo** | 1 rb+ | 600% | 3 jam yang lalu | – |
+| 20 | **senjata nuklir** | 1 rb+ | 300% | 6 jam yang lalu | – |
+| 21 | **ahmad doli kurnia** | 2 rb+ | 200% | 6 jam yang lalu | b. j. habibie, gibran mundur |
+| 22 | **jorge martin** | 1 rb+ | 100% | 4 jam yang lalu | jadwal motogp mandalika 2026, jadwal |
+| 23 | **bahtra banong** | 500+ | 100% | 5 jam yang lalu | – |
+| 24 | **khalid basalamah** | 200+ | 100% | 1 jam yang lalu | – |
+| 25 | **gta6** | 200+ | 100% | 2 jam yang lalu | – |
 
 ## 📖 Keterangan Kolom
 
