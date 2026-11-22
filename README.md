@@ -1,257 +1,258 @@
 # 🔥 Trending di Indonesia
 
-**Semua tren penelusuran Google Trends Indonesia** (24 jam terakhir, 234 entri — seluruh halaman paging, bukan hanya 25 besar) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
+**Semua tren penelusuran Google Trends Indonesia** (24 jam terakhir, 235 entri — seluruh halaman paging, bukan hanya 25 besar) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
 
-> 🕒 **Terakhir diperbarui: 22 November 2026, 17:29 WIB**
+> 🕒 **Terakhir diperbarui: 22 November 2026, 19:29 WIB**
 
 ## 🏆 Tren Paling Panas
 
 | | Tren | Volume | Kenaikan |
 |---|---|---|---|
-| 🥇 | **klasemen real madrid vs celta** | 200 rb+ | ▲ 1.000% |
-| 🥈 | **madrid vs celta** | 200 rb+ | ▲ 1.000% |
-| 🥉 | **adhyaksa vs borneo fc** | 20 rb+ | ▲ 1.000% |
+| 🥇 | **persib bandung vs bali united** | 50 rb+ | ▲ 1.000% |
+| 🥈 | **klasemen real madrid vs celta** | 200 rb+ | ▲ 1.000% |
+| 🥉 | **newcastle vs arsenal** | 50 rb+ | ▲ 1.000% |
 
-*Total volume penelusuran gabungan: ±37.252+ penelusuran*
+*Total volume penelusuran gabungan: ±33.071+ penelusuran*
 
-## 📋 Daftar Lengkap 234 Tren
+## 📋 Daftar Lengkap 235 Tren
 
 | # | Tren | Volume Penelusuran | Kenaikan | Aktif Sejak | Kueri Terkait |
 |---|---|---|---|---|---|
-| 1 | **klasemen real madrid vs celta** | 200 rb+ | 1.000% | 13 jam yang lalu | real madrid vs celta vigo, madrid vs celta vigo |
-| 2 | **madrid vs celta** | 200 rb+ | 1.000% | 22 jam yang lalu | – |
-| 3 | **adhyaksa vs borneo fc** | 20 rb+ | 1.000% | 2 jam yang lalu | – |
-| 4 | **newcastle vs arsenal** | 50 rb+ | 1.000% | 19 jam yang lalu | – |
-| 5 | **klasemen psm makassar vs persija jakarta** | 100 rb+ | 1.000% | 21 jam yang lalu | persija vs psm makassar, persija, psm |
-| 6 | **klasemen newcastle vs arsenal** | 50 rb+ | 1.000% | 15 jam yang lalu | arsenal, arsenal vs, david raya |
-| 7 | **inter miami vs columbus crew** | 20 rb+ | 1.000% | 11 jam yang lalu | lionel messi, inter miami vs columbus |
-| 8 | **nice vs psg** | 50 rb+ | 1.000% | 19 jam yang lalu | psg, psg vs nice, désiré doué |
-| 9 | **klasemen man city vs fulham** | 50 rb+ | 1.000% | 21 jam yang lalu | manchester city vs fulham, man city |
-| 10 | **kapolda bengkulu diganti** | 10 rb+ | 1.000% | 2 jam yang lalu | yudhi sulistianto wahid, kapolda bengkulu |
-| 11 | **klasemen ogc nice vs psg** | 20 rb+ | 1.000% | 15 jam yang lalu | senny mayulu |
-| 12 | **klasemen parma vs as roma** | 20 rb+ | 1.000% | 15 jam yang lalu | parma vs roma, roma vs parma, statistik serie a |
-| 13 | **losc vs lyon** | 10 rb+ | 1.000% | 15 jam yang lalu | – |
-| 14 | **jadwal moto3** | 5 rb+ | 600% | 1 jam yang lalu | live moto3, jadwal moto 3, jadwal moto3 hari ini |
-| 15 | **persib vs bali united** | 5 rb+ | 500% | 8 jam yang lalu | persib bandung vs bali united, persib vs bali |
-| 16 | **mutasi polri kapolda** | 10 rb+ | 900% | 5 jam yang lalu | kepolisian negara republik indonesia, mutasi polri |
-| 17 | **borneo** | 2 rb+ | 1.000% | 1 jam yang lalu | isenmulang vs borneo, borneo fc, borneo vs |
-| 18 | **pt fonusa agung mulia** | 2 rb+ | 400% | 8 jam yang lalu | fonusa agung mulia, milkita, kebakaran pabrik |
-| 19 | **barcelona vs villarreal** | 2 rb+ | 200% | 21 jam yang lalu | barca vs villarreal |
-| 20 | **real madrid vs rc celta de vigo standings** | 20 rb+ | 1.000% | 12 jam yang lalu | madrid, real madrid c.f., real |
-| 21 | **trans7** | 5 rb+ | 600% | 30 menit yang lalu | live moto 3, live motogp, live streaming motogp |
-| 22 | **rien wartia trigina** | 2 rb+ | 300% | 11 jam yang lalu | kasus erin wartia |
-| 23 | **granada vs real madrid femenino** | 500+ | 1.000% | 10 menit yang lalu | – |
-| 24 | **real madrid vs celta** | 50 rb+ | 1.000% | 22 jam yang lalu | real madrid, carlos espí, madrid vs |
-| 25 | **kuliah** | 1 rb+ | 200% | 7 jam yang lalu | – |
-| 26 | **juventus vs venezia** | 500+ | 100% | 7 jam yang lalu | – |
-| 27 | **reza chalid** | 1 rb+ | 200% | 10 jam yang lalu | – |
-| 28 | **bahrain** | 500+ | 300% | 3 jam yang lalu | – |
-| 29 | **saham bumi** | 200+ | 600% | 30 menit yang lalu | – |
-| 30 | **pendaftaran cpns** | 1 rb+ | 500% | 15 jam yang lalu | – |
-| 31 | **klasemen persebaya vs java united fc** | 20 rb+ | 1.000% | 23 jam yang lalu | hasil liga 1 |
-| 32 | **napoli vs torino** | 10 rb+ | 1.000% | 19 jam yang lalu | napoli |
-| 33 | **rayo vs valencia** | 10 rb+ | 1.000% | 20 jam yang lalu | – |
-| 34 | **said iqbal** | 1 rb+ | 100% | 7 jam yang lalu | pramono anung |
-| 35 | **sevilla vs betis** | 10 rb+ | 1.000% | 18 jam yang lalu | real betis, sevilla, betis |
-| 36 | **klasemen bhayangkara fc vs persijap** | 20 rb+ | 1.000% | 20 jam yang lalu | bhayangkara fc vs persijap, bhayangkara vs persijap |
-| 37 | **coventry city vs crystal palace** | 10 rb+ | 1.000% | 20 jam yang lalu | coventry vs palace, crystal palace |
-| 38 | **arsenal vs newcastle** | 10 rb+ | 600% | 23 jam yang lalu | newcastle united f.c. vs arsenal f.c. standings, arsenal f.c. |
-| 39 | **lazio vs lecce** | 10 rb+ | 1.000% | 23 jam yang lalu | tijjani noslin, klasemen lazio vs lecce |
-| 40 | **motogp musim 2026** | 2 rb+ | 900% | 10 jam yang lalu | – |
-| 41 | **kings vs celtics** | 2 rb+ | 600% | 7 jam yang lalu | – |
-| 42 | **tv online** | 100+ | 100% | 10 menit yang lalu | – |
-| 43 | **kecelakaan pesawat** | 1 rb+ | 500% | 6 jam yang lalu | – |
-| 44 | **hari guru kapan** | 500+ | 100% | 5 jam yang lalu | – |
-| 45 | **klasemen sevilla vs real betis** | 5 rb+ | 1.000% | 14 jam yang lalu | sevilla vs real betis, real betis vs sevilla |
-| 46 | **sumsel united fc** | 100+ | 100% | 20 menit yang lalu | – |
-| 47 | **emmanuel emegha** | 10 rb+ | 700% | 19 jam yang lalu | noah okafor |
-| 48 | **donyell malen** | 2 rb+ | 900% | 15 jam yang lalu | – |
-| 49 | **chelsea** | 10 rb+ | 1.000% | 18 jam yang lalu | chelsea vs leeds united, leeds united f.c. |
-| 50 | **klasemen borussia mönchengladbach vs borussia dortmund** | 5 rb+ | 1.000% | 17 jam yang lalu | – |
-| 51 | **mönchengladbach vs dortmund** | 10 rb+ | 1.000% | 20 jam yang lalu | dortmund vs, dortmund, borussia mönchengladbach |
-| 52 | **feyenoord vs excelsior** | 2 rb+ | 900% | 17 jam yang lalu | – |
-| 53 | **lucá williams-barnett** | 2 rb+ | 400% | 19 jam yang lalu | spurs vs ipswich town |
-| 54 | **f1** | 2 rb+ | 600% | 4 jam yang lalu | jadwal f1, f1 2026 |
-| 55 | **harga bbm pertamina** | 2 rb+ | 400% | 16 jam yang lalu | – |
-| 56 | **mitsubishi pajero** | 500+ | 200% | 5 jam yang lalu | – |
-| 57 | **hyundai hillstate** | 200+ | 300% | 1 jam yang lalu | – |
-| 58 | **spurs vs pelicans** | 2 rb+ | 600% | 9 jam yang lalu | victor wembanyama |
-| 59 | **muktar widjaja** | 500+ | 100% | 4 jam yang lalu | – |
-| 60 | **klasemen aston villa vs sunderland** | 2 rb+ | 700% | 17 jam yang lalu | – |
-| 61 | **anggota dewan perwakilan rakyat republik indonesia** | 1 rb+ | 300% | 11 jam yang lalu | – |
-| 62 | **schalke 04 vs vfb** | 2 rb+ | 600% | 17 jam yang lalu | vfb stuttgart, schalke, schalke 04 vfb stuttgart |
-| 63 | **liverpool vs manchester united** | 2 rb+ | 100% | 21 jam yang lalu | – |
-| 64 | **76ers vs bucks** | 2 rb+ | 500% | 16 jam yang lalu | tyler herro |
-| 65 | **peru** | 2 rb+ | 200% | 22 jam yang lalu | – |
-| 66 | **voyager 1** | 1 rb+ | 500% | 6 jam yang lalu | – |
-| 67 | **timberwolves vs grizzlies** | 1 rb+ | 500% | 9 jam yang lalu | – |
-| 68 | **ligue 1** | 2 rb+ | 500% | 17 jam yang lalu | france ligue 1 |
-| 69 | **lazio** | 5 rb+ | 900% | 20 jam yang lalu | – |
-| 70 | **klasemen coventry city vs crystal palace** | 1 rb+ | 400% | 17 jam yang lalu | – |
-| 71 | **peringkat** | 1 rb+ | 500% | 16 jam yang lalu | bwf |
-| 72 | **las vegas gp** | 1 rb+ | 300% | 6 jam yang lalu | f1 las vegas, formula 1 |
-| 73 | **wellington phoenix vs macarthur fc** | 1 rb+ | 600% | 8 jam yang lalu | klasemen wellington phoenix vs macarthur fc, wellington phoenix |
-| 74 | **hana malasan sean gelael** | 500+ | 200% | 5 jam yang lalu | – |
-| 75 | **man city vs fulham f.c. standings** | 5 rb+ | 800% | 19 jam yang lalu | rodrigo muniz, fulham vs man city |
-| 76 | **psg vs** | 2 rb+ | 600% | 17 jam yang lalu | paris saint-germain f.c., liga prancis |
-| 77 | **psis semarang** | 2 rb+ | 400% | 23 jam yang lalu | semen padang fc, hasil liga 2 |
-| 78 | **monaco vs auxerre** | 1 rb+ | 500% | 15 jam yang lalu | – |
-| 79 | **friderica widyasari dewi** | 1 rb+ | 100% | 20 jam yang lalu | – |
-| 80 | **nintendo switch 2** | 1 rb+ | 100% | 23 jam yang lalu | – |
-| 81 | **nitto atp finals** | 500+ | 200% | 10 jam yang lalu | alexander zverev |
-| 82 | **lens vs toulouse** | 1 rb+ | 400% | 16 jam yang lalu | – |
-| 83 | **nec vs psv** | 1 rb+ | 400% | 19 jam yang lalu | – |
-| 84 | **como** | 5 rb+ | 600% | 19 jam yang lalu | – |
-| 85 | **groningen vs heerenveen** | 1 rb+ | 1.000% | 14 jam yang lalu | – |
-| 86 | **mavericks vs clippers** | 500+ | 400% | 8 jam yang lalu | – |
-| 87 | **aston villa** | 5 rb+ | 1.000% | 18 jam yang lalu | aston villa vs, aston |
-| 88 | **uanl vs club américa** | 500+ | 400% | 7 jam yang lalu | – |
-| 89 | **galatasaray vs samsunspor** | 2 rb+ | 1.000% | 22 jam yang lalu | – |
-| 90 | **hendra asman** | 200+ | 200% | 4 jam yang lalu | – |
-| 91 | **millwall vs qpr** | 2 rb+ | 1.000% | 22 jam yang lalu | – |
-| 92 | **knicks vs trail blazers** | 1 rb+ | 200% | 9 jam yang lalu | knicks vs blazers |
-| 93 | **as monaco** | 1 rb+ | 800% | 17 jam yang lalu | as monaco fc |
-| 94 | **lille vs lyon** | 1 rb+ | 200% | 18 jam yang lalu | losc vs ol |
-| 95 | **liverpool ladies fc vs chelsea fc wanita** | 2 rb+ | 1.000% | 22 jam yang lalu | – |
-| 96 | **psm makassar vs persija standings** | 2 rb+ | 600% | 20 jam yang lalu | resky fandi, live score |
-| 97 | **liverpool vs mu** | 500+ | 100% | 19 jam yang lalu | – |
-| 98 | **f1 schedule** | 500+ | 100% | 7 jam yang lalu | – |
-| 99 | **crunchyroll** | 100+ | 100% | 50 menit yang lalu | – |
-| 100 | **gojek** | 100+ | 75% | 20 menit yang lalu | – |
-| 101 | **perampasan aset** | 200+ | 100% | 7 jam yang lalu | – |
-| 102 | **leverkusen vs paderborn** | 2 rb+ | 800% | 20 jam yang lalu | leverkusen, bayer leverkusen |
-| 103 | **parma fc vs as roma standings** | 500+ | 200% | 13 jam yang lalu | malen |
-| 104 | **inter miami vs** | 500+ | 300% | 10 jam yang lalu | – |
-| 105 | **feyenoord** | 1 rb+ | 800% | 17 jam yang lalu | – |
-| 106 | **maxx morando** | 200+ | 75% | 2 jam yang lalu | miley cyrus |
-| 107 | **union berlin vs leipzig** | 2 rb+ | 900% | 20 jam yang lalu | – |
-| 108 | **laliga** | 5 rb+ | 75% | 12 jam yang lalu | – |
-| 109 | **ojek** | 500+ | 100% | 23 jam yang lalu | – |
-| 110 | **pumas unam vs monterrey** | 500+ | 500% | 9 jam yang lalu | pumas unam |
-| 111 | **kocaelispor vs fenerbahçe** | 2 rb+ | 800% | 18 jam yang lalu | – |
-| 112 | **lille** | 500+ | 1.000% | 15 jam yang lalu | – |
-| 113 | **borussia dortmund** | 1 rb+ | 300% | 19 jam yang lalu | – |
-| 114 | **wolves vs charlton** | 500+ | 100% | 19 jam yang lalu | – |
-| 115 | **fenerbahce** | 1 rb+ | 500% | 18 jam yang lalu | – |
-| 116 | **alcaraz** | 1 rb+ | 200% | 19 jam yang lalu | carlos alcaraz |
-| 117 | **gustavo varela** | 500+ | 100% | 15 jam yang lalu | – |
-| 118 | **klasemen union berlin vs rb leipzig** | 500+ | 200% | 17 jam yang lalu | – |
-| 119 | **bournemouth** | 2 rb+ | 700% | 19 jam yang lalu | – |
-| 120 | **aming** | 200+ | 100% | 7 jam yang lalu | – |
-| 121 | **palmeiras vs flamengo** | 500+ | 200% | 14 jam yang lalu | – |
-| 122 | **como vs** | 2 rb+ | 600% | 20 jam yang lalu | yan couto, aek |
-| 123 | **2026** | 1 rb+ | 200% | 11 jam yang lalu | – |
-| 124 | **kevin diks** | 500+ | 200% | 19 jam yang lalu | – |
-| 125 | **de miguel** | 1 rb+ | 600% | 14 jam yang lalu | jesus de miguel |
-| 126 | **atletico mineiro vs boca juniors** | 500+ | 500% | 11 jam yang lalu | – |
-| 127 | **haymitch** | 500+ | 100% | 1 jam yang lalu | joseph zada, haymitch abernathy |
-| 128 | **tromsø vs viking** | 1 rb+ | 600% | 22 jam yang lalu | – |
-| 129 | **keanu reeves** | 200+ | 500% | 4 jam yang lalu | – |
-| 130 | **rc celta de vigo** | 500+ | 300% | 12 jam yang lalu | – |
-| 131 | **club brugge** | 500+ | 500% | 16 jam yang lalu | – |
-| 132 | **papua** | 200+ | 100% | 5 jam yang lalu | – |
-| 133 | **strasbourg vs brest** | 500+ | 100% | 14 jam yang lalu | – |
-| 134 | **klasemen new england revolution vs philadelphia union** | 500+ | 400% | 11 jam yang lalu | new england vs philadelphia union |
-| 135 | **bournemouth vs nottm forest** | 1 rb+ | 200% | 19 jam yang lalu | evanilson, afc bournemouth, bournemouth vs |
-| 136 | **psv** | 1 rb+ | 500% | 18 jam yang lalu | – |
-| 137 | **internacional club de futbol miami** | 200+ | 100% | 7 jam yang lalu | gonzalo tapia |
-| 138 | **heerenveen** | 200+ | 100% | 8 jam yang lalu | – |
-| 139 | **west ham vs preston north end** | 1 rb+ | 300% | 19 jam yang lalu | west ham |
-| 140 | **navajo stirling** | 200+ | 100% | 11 jam yang lalu | – |
-| 141 | **newcastle** | 500+ | 700% | 16 jam yang lalu | – |
-| 142 | **elversberg vs freiburg** | 500+ | 200% | 20 jam yang lalu | – |
-| 143 | **the body netflix** | 500+ | 100% | 17 jam yang lalu | – |
-| 144 | **st pauli** | 200+ | 100% | 16 jam yang lalu | – |
-| 145 | **galatasaray** | 1 rb+ | 700% | 19 jam yang lalu | – |
-| 146 | **once caldas** | 200+ | 200% | 8 jam yang lalu | once caldas vs atlético nacional |
-| 147 | **utrecht vs cambuur** | 200+ | 100% | 16 jam yang lalu | – |
-| 148 | **thibaut courtois** | 200+ | 200% | 12 jam yang lalu | – |
-| 149 | **viking fc** | 500+ | 300% | 21 jam yang lalu | – |
-| 150 | **persebaya vs java united fc standings** | 1 rb+ | 500% | 23 jam yang lalu | – |
-| 151 | **calvin bassey** | 500+ | 100% | 21 jam yang lalu | – |
-| 152 | **gempa padang hari ini** | 500+ | 800% | 14 jam yang lalu | – |
-| 153 | **tanah longsor** | 200+ | 100% | 18 jam yang lalu | – |
-| 154 | **napoli vs** | 200+ | 300% | 15 jam yang lalu | – |
-| 155 | **southampton vs derby county** | 500+ | 300% | 22 jam yang lalu | – |
-| 156 | **eintracht frankfurt vs hoffenheim** | 500+ | 200% | 19 jam yang lalu | – |
-| 157 | **alaves** | 500+ | 300% | 21 jam yang lalu | – |
-| 158 | **market manipulation** | 200+ | 75% | 16 jam yang lalu | – |
-| 159 | **film bioskop hari ini** | 100+ | 75% | 3 jam yang lalu | – |
-| 160 | **persela** | 1 rb+ | 200% | 20 jam yang lalu | deltras vs persela lamongan, persela lamongan |
-| 161 | **kv mechelen vs club brugge** | 200+ | 200% | 14 jam yang lalu | – |
-| 162 | **pachuca vs toluca** | 200+ | 200% | 10 jam yang lalu | – |
-| 163 | **daftar bsu kemnaker** | 200+ | 200% | 17 jam yang lalu | – |
-| 164 | **cska** | 200+ | 200% | 17 jam yang lalu | – |
-| 165 | **gençlerbirliği vs gaziantep** | 500+ | 300% | 23 jam yang lalu | – |
-| 166 | **marwan dasopang** | 100+ | 100% | 5 jam yang lalu | – |
-| 167 | **live macau** | 100+ | 100% | 3 jam yang lalu | – |
-| 168 | **strasbourg** | 200+ | 75% | 16 jam yang lalu | brest |
-| 169 | **black clover season 2 episode 9** | 100+ | 100% | 5 jam yang lalu | – |
-| 170 | **millwall** | 500+ | 100% | 21 jam yang lalu | – |
-| 171 | **zenit** | 500+ | 300% | 19 jam yang lalu | – |
-| 172 | **dbl** | 200+ | 100% | 22 jam yang lalu | – |
-| 173 | **norwich city** | 500+ | 100% | 21 jam yang lalu | norwich vs cardiff |
-| 174 | **klasemen laliga** | 200+ | 100% | 12 jam yang lalu | – |
-| 175 | **cruzeiro** | 100+ | 100% | 9 jam yang lalu | – |
-| 176 | **jacobo ramón** | 500+ | 300% | 19 jam yang lalu | – |
-| 177 | **cek bansos kemensos go id bpnt** | 200+ | 100% | 19 jam yang lalu | – |
-| 178 | **lyon** | 200+ | 300% | 13 jam yang lalu | – |
-| 179 | **mattia liberali** | 200+ | 200% | 19 jam yang lalu | – |
-| 180 | **sigma olomouc vs slavia praha** | 200+ | 200% | 20 jam yang lalu | – |
-| 181 | **iago aspas** | 200+ | 200% | 12 jam yang lalu | – |
-| 182 | **manchester city fc** | 500+ | 300% | 20 jam yang lalu | – |
-| 183 | **persik kediri vs psim yogyakarta standings** | 500+ | 300% | 23 jam yang lalu | – |
-| 184 | **saham** | 200+ | 100% | 11 jam yang lalu | – |
-| 185 | **klasemen liverpool fc women vs chelsea fc women** | 200+ | 200% | 19 jam yang lalu | – |
-| 186 | **ben shelton** | 200+ | 100% | 19 jam yang lalu | – |
-| 187 | **david affengruber** | 200+ | 100% | 21 jam yang lalu | – |
-| 188 | **eredivisie** | 200+ | 100% | 14 jam yang lalu | – |
-| 189 | **berita** | 200+ | 75% | 11 jam yang lalu | – |
-| 190 | **felisha pasaribu** | 100+ | 50% | 14 jam yang lalu | – |
-| 191 | **fc utrecht** | 200+ | 100% | 15 jam yang lalu | – |
-| 192 | **liga champions uefa** | 100+ | 200% | 12 jam yang lalu | – |
-| 193 | **santos laguna vs león** | 100+ | 300% | 9 jam yang lalu | santos laguna |
-| 194 | **vinícius júnior** | 200+ | 800% | 11 jam yang lalu | – |
-| 195 | **kombes pol iman imanuddin** | 200+ | 200% | 22 jam yang lalu | – |
-| 196 | **psgc** | 500+ | 100% | 20 jam yang lalu | psgc vs persiku, psgc ciamis |
-| 197 | **detiksport** | 100+ | 75% | 12 jam yang lalu | – |
-| 198 | **ladaku merica bubuk** | 200+ | 400% | 20 jam yang lalu | – |
-| 199 | **deportivo** | 200+ | 100% | 20 jam yang lalu | – |
-| 200 | **ogc nice vs psg standings** | 100+ | 75% | 14 jam yang lalu | – |
-| 201 | **wolfsburg vs holstein kiel** | 200+ | 100% | 22 jam yang lalu | – |
-| 202 | **persiraja** | 200+ | 100% | 18 jam yang lalu | persiraja vs psps |
-| 203 | **rapid wien** | 100+ | 100% | 15 jam yang lalu | – |
-| 204 | **sion fc** | 100+ | 75% | 14 jam yang lalu | – |
-| 205 | **viking vs** | 200+ | 100% | 20 jam yang lalu | – |
-| 206 | **frankfurt** | 100+ | 200% | 18 jam yang lalu | – |
-| 207 | **vidio** | 200+ | 100% | 13 jam yang lalu | – |
-| 208 | **krc genk** | 100+ | 75% | 15 jam yang lalu | – |
-| 209 | **josh king** | 100+ | 200% | 21 jam yang lalu | – |
-| 210 | **utrecht** | 100+ | 200% | 15 jam yang lalu | – |
-| 211 | **boca juniors** | 100+ | 200% | 9 jam yang lalu | – |
-| 212 | **home** | 100+ | 75% | 14 jam yang lalu | – |
-| 213 | **deportivo alavés** | 200+ | 100% | 20 jam yang lalu | alaves vs deportivo |
-| 214 | **palermo** | 200+ | 100% | 16 jam yang lalu | u.s. catanzaro 1929 vs palermo |
-| 215 | **black clover season 2 episode 8** | 100+ | 100% | 18 jam yang lalu | – |
-| 216 | **jkt** | 100+ | 100% | 14 jam yang lalu | – |
-| 217 | **rc lens** | 100+ | 200% | 13 jam yang lalu | – |
-| 218 | **klasemen liga prancis** | 100+ | 100% | 14 jam yang lalu | – |
-| 219 | **atp finals** | 100+ | 100% | 18 jam yang lalu | – |
-| 220 | **brasil u-17 vs republik irlandia u-17** | 100+ | 100% | 19 jam yang lalu | – |
-| 221 | **liga mx** | 100+ | 75% | 10 jam yang lalu | – |
-| 222 | **ao tanaka** | 100+ | 100% | 17 jam yang lalu | – |
-| 223 | **grand theft auto** | 100+ | 100% | 16 jam yang lalu | – |
-| 224 | **hannover 96** | 100+ | 100% | 20 jam yang lalu | – |
-| 225 | **celtic vs st. mirren** | 100+ | 75% | 18 jam yang lalu | – |
-| 226 | **fpl** | 100+ | 75% | 17 jam yang lalu | – |
-| 227 | **lazio fc** | 100+ | 75% | 18 jam yang lalu | – |
-| 228 | **fotmob** | 100+ | 100% | 12 jam yang lalu | – |
-| 229 | **bmkg juanda** | 100+ | 100% | 22 jam yang lalu | – |
-| 230 | **amed sk** | 100+ | 75% | 19 jam yang lalu | – |
-| 231 | **monaco vs** | 100+ | 75% | 12 jam yang lalu | as monaco vs |
-| 232 | **gianluigi donnarumma** | 100+ | 100% | 19 jam yang lalu | – |
-| 233 | **wolfsburg** | 100+ | 75% | 20 jam yang lalu | – |
-| 234 | **oxford utd vs wycombe** | 100+ | 75% | 17 jam yang lalu | – |
+| 1 | **persib bandung vs bali united** | 50 rb+ | 1.000% | 11 jam yang lalu | persib vs bali united |
+| 2 | **klasemen real madrid vs celta** | 200 rb+ | 1.000% | 15 jam yang lalu | real madrid vs celta vigo, madrid vs celta vigo |
+| 3 | **newcastle vs arsenal** | 50 rb+ | 1.000% | 21 jam yang lalu | newcastle united f.c. vs arsenal f.c. standings, arsenal f.c. |
+| 4 | **juventus vs venezia** | 20 rb+ | 1.000% | 9 jam yang lalu | juventus vs, seri a |
+| 5 | **klasemen psm makassar vs persija jakarta** | 100 rb+ | 1.000% | 23 jam yang lalu | persija, psm, psm makassar |
+| 6 | **klasemen newcastle vs arsenal** | 50 rb+ | 1.000% | 17 jam yang lalu | arsenal, david raya, jadwal arsenal |
+| 7 | **nice vs psg** | 50 rb+ | 1.000% | 21 jam yang lalu | psg, ligue 1, psg vs nice |
+| 8 | **adhyaksa vs borneo fc** | 20 rb+ | 1.000% | 4 jam yang lalu | – |
+| 9 | **inter miami vs columbus crew** | 20 rb+ | 1.000% | 13 jam yang lalu | inter miami vs columbus, inter miami vs |
+| 10 | **kapolda bengkulu diganti** | 10 rb+ | 1.000% | 4 jam yang lalu | yudhi sulistianto wahid, kapolda bengkulu |
+| 11 | **klasemen man city vs fulham** | 50 rb+ | 1.000% | 23 jam yang lalu | manchester city vs fulham, man city |
+| 12 | **barcelona vs villarreal** | 5 rb+ | 600% | 23 jam yang lalu | barca vs villarreal |
+| 13 | **granada vs real madrid femenino** | 5 rb+ | 1.000% | 2 jam yang lalu | – |
+| 14 | **klasemen ogc nice vs psg** | 20 rb+ | 1.000% | 17 jam yang lalu | senny mayulu |
+| 15 | **hasil moto3** | 20 rb+ | 1.000% | 1 jam yang lalu | jadwal moto3, hasil moto3 hari ini |
+| 16 | **klasemen parma vs as roma** | 20 rb+ | 1.000% | 17 jam yang lalu | parma vs roma, roma vs parma, statistik serie a |
+| 17 | **birmingham city wfc vs manchester united w.f.c.** | 2 rb+ | 1.000% | 1 jam yang lalu | manchester city w.f.c. vs tottenham hotspur ladies |
+| 18 | **pt fonusa agung mulia** | 5 rb+ | 500% | 10 jam yang lalu | fonusa agung mulia |
+| 19 | **losc vs lyon** | 10 rb+ | 1.000% | 17 jam yang lalu | lille |
+| 20 | **jadwal motogp** | 10 rb+ | 200% | 20 menit yang lalu | live motogp, motogp hari ini, jadwal moto gp |
+| 21 | **mutasi polri kapolda** | 10 rb+ | 800% | 7 jam yang lalu | mutasi polri |
+| 22 | **vidio** | 5 rb+ | 200% | 30 menit yang lalu | liverpool vs manchester united |
+| 23 | **twente** | 1 rb+ | 500% | 1 jam yang lalu | eredivisie |
+| 24 | **bahrain** | 1 rb+ | 300% | 5 jam yang lalu | – |
+| 25 | **borneo** | 5 rb+ | 800% | 3 jam yang lalu | isen mulang fc vs borneo fc samarinda standings, borneo fc |
+| 26 | **burnley vs blackburn** | 500+ | 500% | 50 menit yang lalu | burnley |
+| 27 | **kuliah** | 1 rb+ | 200% | 9 jam yang lalu | – |
+| 28 | **indosiar** | 200+ | 100% | 10 menit yang lalu | – |
+| 29 | **real madrid** | 20 rb+ | 1.000% | 16 jam yang lalu | carlos espí, pablo durán |
+| 30 | **real madrid vs rc celta de vigo standings** | 10 rb+ | 1.000% | 14 jam yang lalu | madrid |
+| 31 | **tv online** | 200+ | 100% | 2 jam yang lalu | – |
+| 32 | **liverpool vs mu** | 1 rb+ | 100% | 21 jam yang lalu | – |
+| 33 | **napoli vs torino** | 10 rb+ | 1.000% | 21 jam yang lalu | – |
+| 34 | **sean gelael hana malasan** | 500+ | 200% | 1 jam yang lalu | hana malasan sean gelael |
+| 35 | **rayo vs valencia** | 10 rb+ | 1.000% | 22 jam yang lalu | – |
+| 36 | **sassuolo vs genoa** | 200+ | 100% | 1 jam yang lalu | – |
+| 37 | **coventry city vs crystal palace** | 10 rb+ | 1.000% | 22 jam yang lalu | coventry vs palace, crystal palace |
+| 38 | **sevilla vs betis** | 5 rb+ | 1.000% | 20 jam yang lalu | – |
+| 39 | **siti fadia silva ramadhanti** | 200+ | 75% | 2 jam yang lalu | – |
+| 40 | **hull city brighton & hove albion** | 200+ | 75% | 1 jam yang lalu | hull city vs brighton |
+| 41 | **bologna vs udinese** | 200+ | 100% | 1 jam yang lalu | – |
+| 42 | **mahfud md** | 100+ | 100% | 40 menit yang lalu | – |
+| 43 | **edon zhegrova** | 100+ | 100% | 10 menit yang lalu | – |
+| 44 | **klasemen bhayangkara fc vs persijap** | 5 rb+ | 1.000% | 22 jam yang lalu | bhayangkara vs persijap, bhayangkara fc |
+| 45 | **puasa ayyamul bidh bulan november 2026** | 100+ | 100% | 40 menit yang lalu | – |
+| 46 | **rien wartia trigina** | 2 rb+ | 300% | 13 jam yang lalu | kasus erin wartia |
+| 47 | **kings vs celtics** | 2 rb+ | 600% | 9 jam yang lalu | – |
+| 48 | **emmanuel emegha** | 10 rb+ | 700% | 21 jam yang lalu | noah okafor |
+| 49 | **kapan hari guru** | 1 rb+ | 50% | 1 jam yang lalu | tanggal berapa hari guru |
+| 50 | **hari guru kapan** | 1 rb+ | 100% | 7 jam yang lalu | – |
+| 51 | **klasemen sevilla vs real betis** | 5 rb+ | 1.000% | 16 jam yang lalu | sevilla vs real betis, real betis vs sevilla |
+| 52 | **donyell malen** | 5 rb+ | 900% | 17 jam yang lalu | parma fc vs as roma standings, malen |
+| 53 | **chelsea** | 10 rb+ | 1.000% | 20 jam yang lalu | chelsea vs leeds united, leeds united f.c. |
+| 54 | **mönchengladbach vs dortmund** | 10 rb+ | 1.000% | 22 jam yang lalu | borussia dortmund, dortmund vs, dortmund |
+| 55 | **klasemen borussia mönchengladbach vs borussia dortmund** | 5 rb+ | 1.000% | 19 jam yang lalu | – |
+| 56 | **lionel messi** | 2 rb+ | 500% | 11 jam yang lalu | – |
+| 57 | **feyenoord vs excelsior** | 2 rb+ | 900% | 19 jam yang lalu | – |
+| 58 | **kecelakaan pesawat** | 1 rb+ | 500% | 8 jam yang lalu | – |
+| 59 | **score live** | 100+ | 75% | 10 menit yang lalu | – |
+| 60 | **reza chalid** | 1 rb+ | 200% | 12 jam yang lalu | – |
+| 61 | **werder bremen** | 100+ | 100% | 30 menit yang lalu | – |
+| 62 | **lucá williams-barnett** | 2 rb+ | 400% | 21 jam yang lalu | spurs vs ipswich town |
+| 63 | **harga bbm pertamina** | 2 rb+ | 400% | 18 jam yang lalu | – |
+| 64 | **tijjani noslin** | 2 rb+ | 200% | 21 jam yang lalu | klasemen lazio vs lecce, lazio vs |
+| 65 | **la liga** | 10 rb+ | 200% | 14 jam yang lalu | laliga |
+| 66 | **madrid vs** | 2 rb+ | 1.000% | 16 jam yang lalu | – |
+| 67 | **klasemen aston villa vs sunderland** | 2 rb+ | 700% | 19 jam yang lalu | – |
+| 68 | **real madrid vs** | 2 rb+ | 1.000% | 16 jam yang lalu | – |
+| 69 | **f1** | 2 rb+ | 600% | 6 jam yang lalu | las vegas gp, f1 las vegas, formula 1 |
+| 70 | **pendaftaran cpns** | 2 rb+ | 500% | 17 jam yang lalu | – |
+| 71 | **spurs vs pelicans** | 2 rb+ | 600% | 11 jam yang lalu | victor wembanyama |
+| 72 | **schalke 04 vs vfb** | 2 rb+ | 600% | 19 jam yang lalu | vfb stuttgart, schalke, schalke 04 vfb stuttgart |
+| 73 | **anggota dewan perwakilan rakyat republik indonesia** | 1 rb+ | 300% | 13 jam yang lalu | – |
+| 74 | **76ers vs bucks** | 2 rb+ | 500% | 18 jam yang lalu | tyler herro |
+| 75 | **mitsubishi pajero** | 500+ | 200% | 7 jam yang lalu | – |
+| 76 | **lazio** | 5 rb+ | 900% | 22 jam yang lalu | – |
+| 77 | **klasemen coventry city vs crystal palace** | 1 rb+ | 400% | 19 jam yang lalu | – |
+| 78 | **saham bumi** | 200+ | 300% | 2 jam yang lalu | – |
+| 79 | **said iqbal** | 1 rb+ | 100% | 9 jam yang lalu | pramono anung |
+| 80 | **peringkat** | 1 rb+ | 500% | 18 jam yang lalu | bwf |
+| 81 | **real sociedad femenino vs sevilla fc** | 100+ | 200% | 1 jam yang lalu | – |
+| 82 | **man city vs fulham f.c. standings** | 5 rb+ | 800% | 21 jam yang lalu | rodrigo muniz, fulham vs man city |
+| 83 | **timberwolves vs grizzlies** | 1 rb+ | 500% | 11 jam yang lalu | – |
+| 84 | **psg vs** | 2 rb+ | 600% | 19 jam yang lalu | paris saint-germain f.c., liga prancis |
+| 85 | **voyager 1** | 1 rb+ | 500% | 8 jam yang lalu | – |
+| 86 | **monaco vs auxerre** | 1 rb+ | 500% | 17 jam yang lalu | – |
+| 87 | **friderica widyasari dewi** | 1 rb+ | 100% | 22 jam yang lalu | – |
+| 88 | **muktar widjaja** | 500+ | 100% | 6 jam yang lalu | – |
+| 89 | **wellington phoenix vs macarthur fc** | 1 rb+ | 600% | 10 jam yang lalu | klasemen wellington phoenix vs macarthur fc, wellington phoenix |
+| 90 | **hyundai hillstate** | 2 rb+ | 300% | 3 jam yang lalu | klasemen liga spanyol |
+| 91 | **como** | 5 rb+ | 600% | 21 jam yang lalu | – |
+| 92 | **lens vs toulouse** | 1 rb+ | 400% | 18 jam yang lalu | – |
+| 93 | **nec vs psv** | 1 rb+ | 400% | 21 jam yang lalu | – |
+| 94 | **groningen vs heerenveen** | 2 rb+ | 1.000% | 16 jam yang lalu | heerenveen |
+| 95 | **arsenal vs** | 1 rb+ | 900% | 18 jam yang lalu | – |
+| 96 | **haymitch** | 500+ | 100% | 3 jam yang lalu | joseph zada |
+| 97 | **aston villa** | 5 rb+ | 1.000% | 20 jam yang lalu | aston villa vs, aston |
+| 98 | **nitto atp finals** | 500+ | 200% | 12 jam yang lalu | alexander zverev |
+| 99 | **goztepe** | 100+ | 75% | 30 menit yang lalu | – |
+| 100 | **jadwal f1** | 500+ | 200% | 9 jam yang lalu | f1 2026 |
+| 101 | **mavericks vs clippers** | 500+ | 400% | 10 jam yang lalu | – |
+| 102 | **as monaco** | 1 rb+ | 800% | 19 jam yang lalu | as monaco fc |
+| 103 | **lille vs lyon** | 1 rb+ | 200% | 20 jam yang lalu | losc vs ol |
+| 104 | **uanl vs club américa** | 500+ | 400% | 9 jam yang lalu | – |
+| 105 | **real madrid c.f.** | 2 rb+ | 300% | 15 jam yang lalu | real madrid cf |
+| 106 | **psm makassar vs persija standings** | 2 rb+ | 600% | 22 jam yang lalu | resky fandi, live score |
+| 107 | **knicks vs trail blazers** | 1 rb+ | 200% | 11 jam yang lalu | knicks vs blazers |
+| 108 | **real betis** | 2 rb+ | 1.000% | 18 jam yang lalu | betis |
+| 109 | **leverkusen vs paderborn** | 2 rb+ | 800% | 22 jam yang lalu | leverkusen, bayer leverkusen |
+| 110 | **feyenoord** | 1 rb+ | 800% | 19 jam yang lalu | – |
+| 111 | **union berlin vs leipzig** | 2 rb+ | 900% | 22 jam yang lalu | – |
+| 112 | **napoli** | 1 rb+ | 1.000% | 16 jam yang lalu | – |
+| 113 | **hendra asman** | 200+ | 200% | 6 jam yang lalu | – |
+| 114 | **kocaelispor vs fenerbahçe** | 2 rb+ | 800% | 20 jam yang lalu | – |
+| 115 | **f1 schedule** | 500+ | 100% | 9 jam yang lalu | – |
+| 116 | **perampasan aset** | 200+ | 100% | 9 jam yang lalu | – |
+| 117 | **konser jis hari ini** | 100+ | 75% | 1 jam yang lalu | – |
+| 118 | **fenerbahce** | 1 rb+ | 500% | 20 jam yang lalu | – |
+| 119 | **wolves vs charlton** | 500+ | 100% | 21 jam yang lalu | – |
+| 120 | **alcaraz** | 1 rb+ | 200% | 21 jam yang lalu | carlos alcaraz |
+| 121 | **gustavo varela** | 500+ | 100% | 17 jam yang lalu | – |
+| 122 | **pumas unam vs monterrey** | 500+ | 500% | 11 jam yang lalu | – |
+| 123 | **bournemouth** | 2 rb+ | 700% | 21 jam yang lalu | – |
+| 124 | **klasemen union berlin vs rb leipzig** | 500+ | 200% | 19 jam yang lalu | – |
+| 125 | **como vs** | 2 rb+ | 600% | 22 jam yang lalu | yan couto, aek |
+| 126 | **kevin diks** | 500+ | 200% | 21 jam yang lalu | – |
+| 127 | **palmeiras vs flamengo** | 500+ | 200% | 16 jam yang lalu | – |
+| 128 | **sumsel united fc** | 100+ | 100% | 2 jam yang lalu | – |
+| 129 | **de miguel** | 1 rb+ | 600% | 16 jam yang lalu | jesus de miguel |
+| 130 | **2026** | 1 rb+ | 200% | 13 jam yang lalu | – |
+| 131 | **atletico mineiro vs boca juniors** | 500+ | 500% | 13 jam yang lalu | – |
+| 132 | **club brugge** | 500+ | 500% | 18 jam yang lalu | – |
+| 133 | **jadwal liga spanyol** | 1 rb+ | 300% | 15 jam yang lalu | klasemen laliga, jadwal la liga, jadwal laliga 2026 |
+| 134 | **aming** | 200+ | 100% | 9 jam yang lalu | – |
+| 135 | **bournemouth vs nottm forest** | 1 rb+ | 200% | 21 jam yang lalu | evanilson, afc bournemouth, bournemouth vs |
+| 136 | **strasbourg vs brest** | 500+ | 100% | 16 jam yang lalu | – |
+| 137 | **klasemen new england revolution vs philadelphia union** | 500+ | 400% | 13 jam yang lalu | new england vs philadelphia union |
+| 138 | **psv** | 1 rb+ | 500% | 20 jam yang lalu | – |
+| 139 | **maxx morando** | 200+ | 75% | 4 jam yang lalu | miley cyrus |
+| 140 | **west ham vs preston north end** | 1 rb+ | 300% | 21 jam yang lalu | west ham |
+| 141 | **keanu reeves** | 200+ | 500% | 6 jam yang lalu | – |
+| 142 | **newcastle** | 500+ | 700% | 18 jam yang lalu | – |
+| 143 | **papua** | 200+ | 100% | 7 jam yang lalu | – |
+| 144 | **crunchyroll** | 100+ | 100% | 2 jam yang lalu | – |
+| 145 | **navajo stirling** | 200+ | 100% | 13 jam yang lalu | – |
+| 146 | **internacional club de futbol miami** | 200+ | 100% | 9 jam yang lalu | gonzalo tapia |
+| 147 | **sevilla** | 500+ | 800% | 17 jam yang lalu | – |
+| 148 | **real** | 200+ | 200% | 15 jam yang lalu | – |
+| 149 | **elversberg vs freiburg** | 500+ | 200% | 22 jam yang lalu | – |
+| 150 | **galatasaray** | 1 rb+ | 700% | 21 jam yang lalu | – |
+| 151 | **the body netflix** | 500+ | 100% | 19 jam yang lalu | – |
+| 152 | **st pauli** | 200+ | 100% | 18 jam yang lalu | – |
+| 153 | **viking fc** | 500+ | 300% | 23 jam yang lalu | – |
+| 154 | **utrecht vs cambuur** | 200+ | 100% | 18 jam yang lalu | – |
+| 155 | **hasil liga 1** | 2 rb+ | 50% | 21 jam yang lalu | – |
+| 156 | **calvin bassey** | 500+ | 100% | 23 jam yang lalu | – |
+| 157 | **thibaut courtois** | 200+ | 200% | 14 jam yang lalu | – |
+| 158 | **tanah longsor** | 200+ | 100% | 20 jam yang lalu | – |
+| 159 | **gempa padang hari ini** | 500+ | 800% | 16 jam yang lalu | – |
+| 160 | **alaves** | 500+ | 300% | 23 jam yang lalu | – |
+| 161 | **eintracht frankfurt vs hoffenheim** | 500+ | 200% | 21 jam yang lalu | – |
+| 162 | **napoli vs** | 200+ | 300% | 17 jam yang lalu | – |
+| 163 | **once caldas** | 200+ | 200% | 10 jam yang lalu | once caldas vs atlético nacional |
+| 164 | **persela** | 1 rb+ | 200% | 22 jam yang lalu | deltras vs persela lamongan, persela lamongan |
+| 165 | **market manipulation** | 200+ | 75% | 18 jam yang lalu | – |
+| 166 | **kv mechelen vs club brugge** | 200+ | 200% | 16 jam yang lalu | – |
+| 167 | **jadwal madrid** | 200+ | 200% | 15 jam yang lalu | – |
+| 168 | **daftar bsu kemnaker** | 200+ | 200% | 19 jam yang lalu | – |
+| 169 | **cska** | 200+ | 200% | 19 jam yang lalu | – |
+| 170 | **pachuca vs toluca** | 200+ | 200% | 12 jam yang lalu | – |
+| 171 | **pumas unam** | 200+ | 100% | 10 jam yang lalu | – |
+| 172 | **millwall** | 500+ | 100% | 23 jam yang lalu | – |
+| 173 | **strasbourg** | 200+ | 75% | 18 jam yang lalu | brest |
+| 174 | **zenit** | 500+ | 300% | 21 jam yang lalu | – |
+| 175 | **norwich city** | 500+ | 100% | 23 jam yang lalu | norwich vs cardiff |
+| 176 | **gojek** | 100+ | 75% | 2 jam yang lalu | – |
+| 177 | **film bioskop hari ini** | 100+ | 75% | 5 jam yang lalu | – |
+| 178 | **jacobo ramón** | 500+ | 300% | 21 jam yang lalu | – |
+| 179 | **marwan dasopang** | 100+ | 100% | 7 jam yang lalu | – |
+| 180 | **cek bansos kemensos go id bpnt** | 200+ | 100% | 21 jam yang lalu | – |
+| 181 | **mattia liberali** | 200+ | 200% | 21 jam yang lalu | – |
+| 182 | **lyon** | 200+ | 300% | 15 jam yang lalu | – |
+| 183 | **cruzeiro** | 100+ | 100% | 11 jam yang lalu | – |
+| 184 | **jude bellingham** | 200+ | 700% | 14 jam yang lalu | – |
+| 185 | **black clover season 2 episode 9** | 100+ | 100% | 7 jam yang lalu | – |
+| 186 | **live macau** | 100+ | 100% | 5 jam yang lalu | – |
+| 187 | **sigma olomouc vs slavia praha** | 200+ | 200% | 22 jam yang lalu | – |
+| 188 | **manchester city fc** | 500+ | 300% | 22 jam yang lalu | – |
+| 189 | **iago aspas** | 200+ | 200% | 14 jam yang lalu | – |
+| 190 | **klasemen liverpool fc women vs chelsea fc women** | 200+ | 200% | 21 jam yang lalu | – |
+| 191 | **saham** | 200+ | 100% | 13 jam yang lalu | – |
+| 192 | **david affengruber** | 200+ | 100% | 23 jam yang lalu | – |
+| 193 | **ben shelton** | 200+ | 100% | 21 jam yang lalu | – |
+| 194 | **berita** | 200+ | 75% | 13 jam yang lalu | – |
+| 195 | **felisha pasaribu** | 100+ | 50% | 16 jam yang lalu | – |
+| 196 | **fc utrecht** | 200+ | 100% | 17 jam yang lalu | – |
+| 197 | **liga champions uefa** | 100+ | 200% | 14 jam yang lalu | – |
+| 198 | **psgc** | 500+ | 100% | 22 jam yang lalu | psgc vs persiku, psgc ciamis |
+| 199 | **ladaku merica bubuk** | 200+ | 400% | 22 jam yang lalu | – |
+| 200 | **santos laguna vs león** | 100+ | 300% | 11 jam yang lalu | santos laguna |
+| 201 | **deportivo** | 200+ | 100% | 22 jam yang lalu | – |
+| 202 | **vinícius júnior** | 200+ | 800% | 13 jam yang lalu | – |
+| 203 | **detiksport** | 100+ | 75% | 14 jam yang lalu | – |
+| 204 | **ogc nice vs psg standings** | 100+ | 75% | 16 jam yang lalu | – |
+| 205 | **persiraja** | 200+ | 100% | 20 jam yang lalu | persiraja vs psps |
+| 206 | **rapid wien** | 100+ | 100% | 17 jam yang lalu | – |
+| 207 | **viking vs** | 200+ | 100% | 22 jam yang lalu | – |
+| 208 | **sion fc** | 100+ | 75% | 16 jam yang lalu | – |
+| 209 | **frankfurt** | 100+ | 200% | 20 jam yang lalu | – |
+| 210 | **krc genk** | 100+ | 75% | 17 jam yang lalu | – |
+| 211 | **josh king** | 100+ | 200% | 23 jam yang lalu | – |
+| 212 | **utrecht** | 100+ | 200% | 17 jam yang lalu | – |
+| 213 | **deportivo alavés** | 200+ | 100% | 22 jam yang lalu | alaves vs deportivo |
+| 214 | **home** | 100+ | 75% | 16 jam yang lalu | – |
+| 215 | **palermo** | 200+ | 100% | 18 jam yang lalu | u.s. catanzaro 1929 vs palermo |
+| 216 | **black clover season 2 episode 8** | 100+ | 100% | 20 jam yang lalu | – |
+| 217 | **boca juniors** | 100+ | 200% | 11 jam yang lalu | – |
+| 218 | **jkt** | 100+ | 100% | 16 jam yang lalu | – |
+| 219 | **rc lens** | 100+ | 200% | 15 jam yang lalu | – |
+| 220 | **atp finals** | 100+ | 100% | 20 jam yang lalu | – |
+| 221 | **klasemen liga prancis** | 100+ | 100% | 16 jam yang lalu | – |
+| 222 | **brasil u-17 vs republik irlandia u-17** | 100+ | 100% | 21 jam yang lalu | – |
+| 223 | **liga mx** | 100+ | 75% | 12 jam yang lalu | – |
+| 224 | **ao tanaka** | 100+ | 100% | 19 jam yang lalu | – |
+| 225 | **grand theft auto** | 100+ | 100% | 18 jam yang lalu | – |
+| 226 | **hannover 96** | 100+ | 100% | 22 jam yang lalu | – |
+| 227 | **celtic vs st. mirren** | 100+ | 75% | 20 jam yang lalu | – |
+| 228 | **fpl** | 100+ | 75% | 19 jam yang lalu | – |
+| 229 | **lazio fc** | 100+ | 75% | 20 jam yang lalu | – |
+| 230 | **fotmob** | 100+ | 100% | 14 jam yang lalu | – |
+| 231 | **amed sk** | 100+ | 75% | 21 jam yang lalu | – |
+| 232 | **gianluigi donnarumma** | 100+ | 100% | 21 jam yang lalu | – |
+| 233 | **wolfsburg** | 100+ | 75% | 22 jam yang lalu | – |
+| 234 | **monaco vs** | 100+ | 75% | 14 jam yang lalu | as monaco vs |
+| 235 | **oxford utd vs wycombe** | 100+ | 75% | 19 jam yang lalu | – |
 
 ## 📖 Keterangan Kolom
 
