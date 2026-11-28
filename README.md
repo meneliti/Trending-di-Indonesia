@@ -1,179 +1,174 @@
 # 🔥 Trending di Indonesia
 
-**Semua tren penelusuran Google Trends Indonesia** (24 jam terakhir, 156 entri — seluruh halaman paging, bukan hanya 25 besar) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
+**Semua tren penelusuran Google Trends Indonesia** (24 jam terakhir, 151 entri — seluruh halaman paging, bukan hanya 25 besar) — diperbarui otomatis **setiap 2 jam** langsung dari [Google Trends](https://trends.google.com/trending?geo=ID).
 
-> 🕒 **Terakhir diperbarui: 28 November 2026, 09:29 WIB**
+> 🕒 **Terakhir diperbarui: 28 November 2026, 11:29 WIB**
 
 ## 🏆 Tren Paling Panas
 
 | | Tren | Volume | Kenaikan |
 |---|---|---|---|
 | 🥇 | **klasemen nottingham forest vs chelsea** | 100 rb+ | ▲ 1.000% |
-| 🥈 | **columbus crew vs inter miami** | 10 rb+ | ▲ 1.000% |
+| 🥈 | **columbus crew vs inter miami** | 20 rb+ | ▲ 1.000% |
 | 🥉 | **arif kurniawan** | 10 rb+ | ▲ 1.000% |
 
-*Total volume penelusuran gabungan: ±24.931+ penelusuran*
+*Total volume penelusuran gabungan: ±24.566+ penelusuran*
 
-## 📋 Daftar Lengkap 156 Tren
+## 📋 Daftar Lengkap 151 Tren
 
 | # | Tren | Volume Penelusuran | Kenaikan | Aktif Sejak | Kueri Terkait |
 |---|---|---|---|---|---|
-| 1 | **klasemen nottingham forest vs chelsea** | 100 rb+ | 1.000% | 4 jam yang lalu | nottingham forest vs chelsea |
-| 2 | **columbus crew vs inter miami** | 10 rb+ | 1.000% | 2 jam yang lalu | – |
-| 3 | **arif kurniawan** | 10 rb+ | 1.000% | 20 jam yang lalu | arif kurniawan nikel, arief kurniawan |
-| 4 | **syahganda nainggolan** | 10 rb+ | 1.000% | 16 jam yang lalu | ulta levenia |
-| 5 | **nottm forest vs chelsea** | 10 rb+ | 1.000% | 7 jam yang lalu | nottingham forest vs chelsea f.c. standings, premier league |
-| 6 | **marc marquez** | 20 rb+ | 1.000% | 16 jam yang lalu | marc márquez, marc marquez pensiun |
-| 7 | **kemenkeu** | 20 rb+ | 400% | 23 jam yang lalu | daftar formasi cpns 2026, kemenkumham |
-| 8 | **bremen vs mönchengladbach** | 10 rb+ | 1.000% | 7 jam yang lalu | borussia mönchengladbach, werder bremen |
-| 9 | **levante vs racing santander** | 10 rb+ | 1.000% | 21 jam yang lalu | levante ud |
-| 10 | **bpk** | 10 rb+ | 600% | 20 jam yang lalu | badan pemeriksa keuangan |
-| 11 | **budi arie** | 10 rb+ | 800% | 18 jam yang lalu | marthinus hukom, budi arie setiadi |
-| 12 | **badan siber dan sandi negara** | 5 rb+ | 600% | 16 jam yang lalu | – |
-| 13 | **saldi isra** | 2 rb+ | 1.000% | 4 jam yang lalu | margarito kamis |
-| 14 | **venezia vs bologna** | 10 rb+ | 1.000% | 21 jam yang lalu | bologna, venezia |
-| 15 | **wika salim** | 5 rb+ | 700% | 17 jam yang lalu | – |
-| 16 | **bayan resources** | 5 rb+ | 500% | 22 jam yang lalu | – |
-| 17 | **columbus vs inter miami** | 2 rb+ | 1.000% | 1 jam yang lalu | inter miami, columbus crew, inter miami vs |
-| 18 | **iqoo** | 2 rb+ | 400% | 19 jam yang lalu | – |
-| 19 | **sman 7 malang** | 5 rb+ | 200% | 23 jam yang lalu | malang, polisi, bullying malang |
-| 20 | **hasto kristiyanto** | 2 rb+ | 400% | 14 jam yang lalu | – |
-| 21 | **kementerian koperasi** | 2 rb+ | 400% | 12 jam yang lalu | – |
-| 22 | **kemenimipas** | 2 rb+ | 200% | 22 jam yang lalu | – |
-| 23 | **klasemen venezia vs bologna** | 2 rb+ | 1.000% | 4 jam yang lalu | bologna vs, milan vs bologna |
-| 24 | **kevin diks** | 2 rb+ | 600% | 6 jam yang lalu | monchengladbach |
-| 25 | **suo** | 2 rb+ | 900% | 23 jam yang lalu | – |
-| 26 | **tim nasional sepak bola u-17 vietnam** | 5 rb+ | 600% | 23 jam yang lalu | tim nasional sepak bola u 17 vietnam, vietnam u17 |
-| 27 | **brest vs paris** | 2 rb+ | 800% | 6 jam yang lalu | brest vs paris fc, brest |
-| 28 | **knicks vs heat** | 1 rb+ | 900% | 2 jam yang lalu | – |
-| 29 | **pacers vs 76ers** | 500+ | 1.000% | 1 jam yang lalu | – |
-| 30 | **singapura** | 1 rb+ | 1.000% | 3 jam yang lalu | – |
-| 31 | **fluminense vs cruzeiro** | 1 rb+ | 1.000% | 3 jam yang lalu | fluminense |
-| 32 | **saham bumi** | 1 rb+ | 600% | 3 jam yang lalu | – |
-| 33 | **southampton vs middlesbrough** | 2 rb+ | 400% | 10 jam yang lalu | southampton, middlesbrough |
-| 34 | **bronson reed** | 500+ | 600% | 1 jam yang lalu | – |
-| 35 | **mahkamah agung cpns** | 2 rb+ | 100% | 17 jam yang lalu | hakim, cpns mahkamah agung, formasi |
-| 36 | **kementerian koperasi cpns 2026** | 1 rb+ | 300% | 11 jam yang lalu | – |
-| 37 | **timberwolves vs grizzlies** | 500+ | 1.000% | 40 menit yang lalu | – |
-| 38 | **cpns polri 2026** | 1 rb+ | 100% | 16 jam yang lalu | formasi cpns kejaksaan 2026 |
-| 39 | **marquez** | 2 rb+ | 300% | 15 jam yang lalu | – |
-| 40 | **tiongkok** | 2 rb+ | 500% | 16 jam yang lalu | – |
-| 41 | **kantor notaris** | 1 rb+ | 200% | 14 jam yang lalu | – |
-| 42 | **anthony gordon barcelona** | 500+ | 100% | 10 jam yang lalu | – |
-| 43 | **bpnt** | 200+ | 300% | 2 jam yang lalu | – |
-| 44 | **spurs vs lakers** | 200+ | 600% | 10 menit yang lalu | – |
-| 45 | **alejandro garnacho** | 500+ | 300% | 4 jam yang lalu | – |
-| 46 | **kementerian hukum** | 500+ | 100% | 12 jam yang lalu | – |
-| 47 | **hexed** | 1 rb+ | 100% | 21 jam yang lalu | – |
-| 48 | **carlos tevez** | 2 rb+ | 400% | 21 jam yang lalu | carlos tévez, tevez |
-| 49 | **celtics vs hawks** | 200+ | 500% | 1 jam yang lalu | – |
-| 50 | **paris fc** | 5 rb+ | 800% | 11 jam yang lalu | – |
-| 51 | **ut** | 1 rb+ | 100% | 22 jam yang lalu | – |
-| 52 | **deportivo cali** | 500+ | 200% | 3 jam yang lalu | deportivo cali vs atletico bucaramanga |
-| 53 | **pistons vs bucks** | 200+ | 400% | 50 menit yang lalu | – |
-| 54 | **mu vs brentford** | 500+ | 75% | 10 jam yang lalu | – |
-| 55 | **ulang tahun persija** | 5 rb+ | 200% | 17 jam yang lalu | ultah persija, persija hari ini, bundaran hi |
-| 56 | **kemendes** | 100+ | 200% | 30 menit yang lalu | – |
-| 57 | **ittihad fc vs neom sc** | 2 rb+ | 500% | 9 jam yang lalu | al ittihad |
-| 58 | **moon seon min** | 2 rb+ | 100% | 17 jam yang lalu | rcti live, streaming rcti, rcti live streaming |
-| 59 | **kemenag cpns** | 500+ | 75% | 19 jam yang lalu | – |
-| 60 | **levante** | 2 rb+ | 1.000% | 7 jam yang lalu | – |
-| 61 | **groningen vs willem ii** | 1 rb+ | 800% | 7 jam yang lalu | – |
-| 62 | **truk sampah** | 100+ | 100% | 1 jam yang lalu | – |
-| 63 | **racing santander** | 1 rb+ | 300% | 8 jam yang lalu | levante vs |
-| 64 | **kombes iman imanuddin** | 1 rb+ | 900% | 4 jam yang lalu | – |
-| 65 | **banjir di jakarta utara** | 500+ | 200% | 3 jam yang lalu | – |
-| 66 | **veda ega pratama moto3** | 500+ | 400% | 5 jam yang lalu | – |
-| 67 | **al-qadisiyah vs al feiha** | 2 rb+ | 1.000% | 12 jam yang lalu | al qadisiyah, al qadsiah |
-| 68 | **pecco bagnaia** | 500+ | 75% | 17 jam yang lalu | – |
-| 69 | **igor jesus** | 500+ | 300% | 6 jam yang lalu | – |
-| 70 | **tentara bayaran** | 500+ | 300% | 4 jam yang lalu | – |
-| 71 | **cpns kejaksaan 2026** | 1 rb+ | 100% | 18 jam yang lalu | kejaksaan cpns |
-| 72 | **rusia** | 200+ | 100% | 4 jam yang lalu | – |
-| 73 | **piala dunia u-17 fifa** | 500+ | 200% | 3 jam yang lalu | honduras u-17 vs jepang u-17, piala dunia u17 |
-| 74 | **paul pogba** | 200+ | 100% | 5 jam yang lalu | – |
-| 75 | **mati listrik** | 1 rb+ | 200% | 23 jam yang lalu | – |
-| 76 | **supratman andi agtas** | 200+ | 200% | 4 jam yang lalu | – |
-| 77 | **leganes** | 500+ | 100% | 10 jam yang lalu | – |
-| 78 | **megawati hangestri pertiwi** | 200+ | 600% | 1 jam yang lalu | – |
-| 79 | **paris** | 500+ | 100% | 14 jam yang lalu | paris fc vs |
-| 80 | **burj khalifa** | 1 rb+ | 100% | 16 jam yang lalu | – |
-| 81 | **macarthur fc vs melbourne city** | 2 rb+ | 1.000% | 18 jam yang lalu | macarthur fc |
-| 82 | **maritimo** | 500+ | 100% | 11 jam yang lalu | – |
-| 83 | **paris vs** | 200+ | 100% | 6 jam yang lalu | – |
-| 84 | **alanyaspor vs konyaspor** | 1 rb+ | 600% | 9 jam yang lalu | – |
-| 85 | **madrid vs alavés** | 1 rb+ | 100% | 13 jam yang lalu | deportivo alavés, real madrid vs alavés |
-| 86 | **kasimpasa** | 1 rb+ | 200% | 9 jam yang lalu | rizespor vs kasımpasa, liga turki |
-| 87 | **alanyaspor** | 1 rb+ | 200% | 14 jam yang lalu | – |
-| 88 | **bank indonesia** | 500+ | 100% | 2 jam yang lalu | kebijakan, rupiah |
-| 89 | **brondby** | 500+ | 300% | 8 jam yang lalu | sonderjyske vs brøndby |
-| 90 | **kepribadian** | 100+ | 100% | 2 jam yang lalu | – |
-| 91 | **kementerian kehutanan** | 1 rb+ | 75% | 23 jam yang lalu | – |
-| 92 | **kabupaten tangerang** | 100+ | 100% | 2 jam yang lalu | – |
-| 93 | **kecoak** | 100+ | 100% | 2 jam yang lalu | – |
-| 94 | **kejaksaan agung** | 1 rb+ | 100% | 18 jam yang lalu | kejaksaan |
-| 95 | **new zealand election results** | 200+ | 50% | 9 jam yang lalu | – |
-| 96 | **persib vs persita** | 500+ | 100% | 20 jam yang lalu | – |
-| 97 | **al-kholood club vs al khaleej** | 1 rb+ | 300% | 14 jam yang lalu | al kholood |
-| 98 | **prakiraan cuaca hari ini** | 200+ | 50% | 4 jam yang lalu | – |
-| 99 | **kim jong-un** | 100+ | 100% | 2 jam yang lalu | – |
-| 100 | **shayne pattynama** | 200+ | 300% | 4 jam yang lalu | – |
-| 101 | **kasus korupsi letjen widi prasetijono** | 500+ | 200% | 15 jam yang lalu | – |
-| 102 | **vfl bochum** | 200+ | 200% | 8 jam yang lalu | – |
-| 103 | **penambangan emas** | 100+ | 100% | 4 jam yang lalu | – |
-| 104 | **león vs cruz azul** | 1 rb+ | 600% | 23 jam yang lalu | club leon |
-| 105 | **nico paz** | 200+ | 600% | 4 jam yang lalu | – |
-| 106 | **klasemen southampton vs middlesbrough** | 100+ | 200% | 2 jam yang lalu | – |
-| 107 | **aparatur sipil negara** | 200+ | 100% | 15 jam yang lalu | – |
-| 108 | **jadwal chelsea** | 200+ | 100% | 6 jam yang lalu | – |
-| 109 | **supercell** | 200+ | 100% | 15 jam yang lalu | – |
-| 110 | **harga emas antam terbaru** | 500+ | 300% | 13 jam yang lalu | – |
-| 111 | **heidenheim vs nürnberg** | 200+ | 300% | 8 jam yang lalu | – |
-| 112 | **bank mandiri taspen** | 500+ | 300% | 21 jam yang lalu | – |
-| 113 | **kosta rika u-17 vs brasil u-17** | 500+ | 200% | 12 jam yang lalu | – |
-| 114 | **cuaca ekstrem** | 100+ | 100% | 4 jam yang lalu | – |
-| 115 | **pemilik toko** | 500+ | 100% | 22 jam yang lalu | – |
-| 116 | **lionel messi** | 1 rb+ | 300% | 19 jam yang lalu | – |
-| 117 | **kepolisian daerah istimewa yogyakarta** | 500+ | 200% | 21 jam yang lalu | – |
-| 118 | **wesley fofana** | 100+ | 100% | 5 jam yang lalu | – |
-| 119 | **dedikasi** | 500+ | 100% | 20 jam yang lalu | – |
-| 120 | **playstore** | 100+ | 75% | 3 jam yang lalu | – |
-| 121 | **real city** | 200+ | 100% | 18 jam yang lalu | – |
-| 122 | **menu** | 100+ | 200% | 4 jam yang lalu | – |
-| 123 | **kerja sama** | 500+ | 300% | 23 jam yang lalu | – |
-| 124 | **groningen fc** | 100+ | 100% | 5 jam yang lalu | – |
-| 125 | **apa itu black friday** | 200+ | 50% | 16 jam yang lalu | – |
-| 126 | **pulang kampung** | 500+ | 75% | 21 jam yang lalu | dengan |
-| 127 | **simple plan jakarta** | 200+ | 75% | 15 jam yang lalu | – |
-| 128 | **bochum** | 100+ | 100% | 7 jam yang lalu | – |
-| 129 | **yassir zabiri** | 100+ | 200% | 2 jam yang lalu | – |
-| 130 | **rcti** | 1 rb+ | 100% | 13 jam yang lalu | – |
-| 131 | **cruz azul** | 500+ | 200% | 23 jam yang lalu | – |
-| 132 | **taylor** | 100+ | 200% | 6 jam yang lalu | – |
-| 133 | **jadwal motogp valencia 2026** | 200+ | 75% | 15 jam yang lalu | – |
-| 134 | **github** | 200+ | 75% | 7 jam yang lalu | – |
-| 135 | **kementan** | 200+ | 75% | 19 jam yang lalu | – |
-| 136 | **dollar hari ini** | 1 rb+ | 75% | 16 jam yang lalu | dolar ke rupiah, dolar |
-| 137 | **organisasi pakta pertahanan atlantik utara** | 200+ | 100% | 18 jam yang lalu | – |
-| 138 | **cpns kemenag** | 100+ | 75% | 15 jam yang lalu | – |
-| 139 | **melbourne city** | 200+ | 100% | 17 jam yang lalu | – |
-| 140 | **sekolah rakyat** | 100+ | 100% | 18 jam yang lalu | – |
-| 141 | **kode redeem fc** | 200+ | 200% | 20 jam yang lalu | – |
-| 142 | **beach city international stadium** | 200+ | 100% | 21 jam yang lalu | – |
-| 143 | **direktorat jenderal pajak, kementerian keuangan** | 100+ | 200% | 20 jam yang lalu | – |
-| 144 | **magrib surabaya** | 200+ | 50% | 15 jam yang lalu | – |
-| 145 | **tas** | 100+ | 75% | 18 jam yang lalu | – |
-| 146 | **kementerian pertanian** | 200+ | 75% | 18 jam yang lalu | – |
-| 147 | **bills vs chiefs** | 100+ | 75% | 23 jam yang lalu | – |
-| 148 | **subsidi energi** | 100+ | 100% | 14 jam yang lalu | – |
-| 149 | **dian swastatika sentosa** | 200+ | 300% | 14 jam yang lalu | – |
-| 150 | **rekrutmen tni** | 100+ | 100% | 22 jam yang lalu | – |
-| 151 | **valentino rossi** | 100+ | 100% | 23 jam yang lalu | – |
-| 152 | **prajogo pangestu** | 100+ | 75% | 14 jam yang lalu | – |
-| 153 | **japan prime minister** | 100+ | 100% | 21 jam yang lalu | – |
-| 154 | **kementerian imigrasi dan pemasyarakatan** | 100+ | 100% | 18 jam yang lalu | – |
-| 155 | **brentford f.c.** | 100+ | 100% | 23 jam yang lalu | – |
-| 156 | **swot** | 100+ | 75% | 23 jam yang lalu | – |
+| 1 | **klasemen nottingham forest vs chelsea** | 100 rb+ | 1.000% | 6 jam yang lalu | nottingham forest vs chelsea, chelsea |
+| 2 | **columbus crew vs inter miami** | 20 rb+ | 1.000% | 4 jam yang lalu | columbus vs inter miami, mls, lionel messi |
+| 3 | **arif kurniawan** | 10 rb+ | 1.000% | 22 jam yang lalu | arif kurniawan nikel, arief kurniawan |
+| 4 | **syahganda nainggolan** | 10 rb+ | 1.000% | 18 jam yang lalu | ulta levenia, ulta levenia nababan |
+| 5 | **bremen vs mönchengladbach** | 20 rb+ | 1.000% | 9 jam yang lalu | borussia mönchengladbach, werder bremen |
+| 6 | **nottm forest vs chelsea** | 20 rb+ | 1.000% | 9 jam yang lalu | nottingham forest vs chelsea f.c. standings, premier league |
+| 7 | **badan siber dan sandi negara** | 5 rb+ | 700% | 18 jam yang lalu | – |
+| 8 | **bpk** | 10 rb+ | 600% | 22 jam yang lalu | badan pemeriksa keuangan |
+| 9 | **kementerian koperasi** | 20 rb+ | 400% | 14 jam yang lalu | kemenkum |
+| 10 | **marc marquez** | 20 rb+ | 1.000% | 18 jam yang lalu | marc marquez pensiun, marc márquez |
+| 11 | **levante vs racing santander** | 10 rb+ | 1.000% | 23 jam yang lalu | levante ud |
+| 12 | **budi arie** | 20 rb+ | 700% | 20 jam yang lalu | marthinus hukom, budi arie setiadi |
+| 13 | **spurs vs lakers** | 2 rb+ | 1.000% | 2 jam yang lalu | – |
+| 14 | **margarito kamis** | 5 rb+ | 900% | 5 jam yang lalu | saldi isra |
+| 15 | **venezia vs bologna** | 10 rb+ | 1.000% | 23 jam yang lalu | bologna, venezia |
+| 16 | **iqoo** | 2 rb+ | 500% | 21 jam yang lalu | – |
+| 17 | **fc seoul vs daejeon citizen** | 1 rb+ | 1.000% | 10 menit yang lalu | – |
+| 18 | **hasto kristiyanto** | 2 rb+ | 400% | 16 jam yang lalu | – |
+| 19 | **blazers vs warriors** | 2 rb+ | 1.000% | 1 jam yang lalu | trail blazers vs warriors |
+| 20 | **wika salim** | 5 rb+ | 700% | 19 jam yang lalu | – |
+| 21 | **kevin diks** | 5 rb+ | 600% | 8 jam yang lalu | monchengladbach |
+| 22 | **pacers vs 76ers** | 1 rb+ | 800% | 3 jam yang lalu | lebron james |
+| 23 | **klasemen venezia vs bologna** | 2 rb+ | 900% | 6 jam yang lalu | bologna vs, milan vs bologna |
+| 24 | **malang** | 5 rb+ | 200% | 12 jam yang lalu | bullying malang, polisi, silva nur sman 7 malang |
+| 25 | **saham bumi** | 1 rb+ | 500% | 5 jam yang lalu | – |
+| 26 | **real salt lake vs whitecaps** | 500+ | 700% | 1 jam yang lalu | – |
+| 27 | **celtics vs hawks** | 500+ | 400% | 3 jam yang lalu | – |
+| 28 | **tiongkok** | 2 rb+ | 500% | 18 jam yang lalu | – |
+| 29 | **timberwolves vs grizzlies** | 1 rb+ | 900% | 2 jam yang lalu | – |
+| 30 | **mahkamah agung cpns** | 2 rb+ | 100% | 19 jam yang lalu | cpns mahkamah agung, hakim, mahkamah agung ri |
+| 31 | **knicks vs heat** | 1 rb+ | 700% | 4 jam yang lalu | – |
+| 32 | **ambles** | 200+ | 1.000% | 1 jam yang lalu | – |
+| 33 | **cpns polri 2026** | 2 rb+ | 100% | 18 jam yang lalu | cpns polri |
+| 34 | **bronson reed** | 500+ | 400% | 3 jam yang lalu | – |
+| 35 | **suns vs mavericks** | 500+ | 500% | 2 jam yang lalu | – |
+| 36 | **carlos tevez** | 1 rb+ | 300% | 23 jam yang lalu | carlos tévez |
+| 37 | **alejandro garnacho** | 500+ | 200% | 6 jam yang lalu | – |
+| 38 | **hexed** | 1 rb+ | 100% | 23 jam yang lalu | – |
+| 39 | **millonarios vs américa de cali** | 200+ | 200% | 1 jam yang lalu | america de cali |
+| 40 | **piala dunia u-17 fifa** | 1 rb+ | 200% | 5 jam yang lalu | kosta rika u-17 vs brasil u-17 |
+| 41 | **india** | 200+ | 100% | 2 jam yang lalu | – |
+| 42 | **paris fc** | 5 rb+ | 800% | 13 jam yang lalu | – |
+| 43 | **nico paz real madrid** | 500+ | 400% | 1 jam yang lalu | nico paz |
+| 44 | **real salt lake** | 100+ | 200% | 1 jam yang lalu | – |
+| 45 | **pedro acosta** | 100+ | 200% | 1 jam yang lalu | – |
+| 46 | **kementerian desa dan pembangunan daerah tertinggal** | 200+ | 100% | 2 jam yang lalu | – |
+| 47 | **persib vs persita** | 1 rb+ | 100% | 22 jam yang lalu | – |
+| 48 | **destry damayanti** | 500+ | 200% | 20 menit yang lalu | bank indonesia, sekolah rakyat |
+| 49 | **jazz vs nuggets** | 100+ | 200% | 20 menit yang lalu | – |
+| 50 | **singapura** | 2 rb+ | 900% | 5 jam yang lalu | – |
+| 51 | **southampton vs middlesbrough** | 2 rb+ | 300% | 12 jam yang lalu | southampton, middlesbrough |
+| 52 | **brest vs paris** | 2 rb+ | 600% | 8 jam yang lalu | brest vs paris fc, brest |
+| 53 | **fluminense vs cruzeiro** | 2 rb+ | 800% | 5 jam yang lalu | fluminense |
+| 54 | **fofana** | 200+ | 100% | 20 menit yang lalu | wesley fofana |
+| 55 | **ulang tahun persija** | 5 rb+ | 200% | 19 jam yang lalu | ultah persija, persija hari ini, bundaran hi |
+| 56 | **ittihad fc vs neom sc** | 2 rb+ | 500% | 11 jam yang lalu | al ittihad |
+| 57 | **marquez** | 2 rb+ | 300% | 17 jam yang lalu | – |
+| 58 | **anthony gordon barcelona** | 1 rb+ | 100% | 12 jam yang lalu | – |
+| 59 | **bpnt** | 500+ | 200% | 4 jam yang lalu | – |
+| 60 | **levante** | 2 rb+ | 1.000% | 9 jam yang lalu | – |
+| 61 | **groningen vs willem ii** | 1 rb+ | 800% | 9 jam yang lalu | – |
+| 62 | **pecco bagnaia** | 500+ | 75% | 19 jam yang lalu | – |
+| 63 | **truk sampah** | 200+ | 100% | 3 jam yang lalu | – |
+| 64 | **racing santander** | 1 rb+ | 300% | 10 jam yang lalu | levante vs |
+| 65 | **pistons vs bucks** | 200+ | 200% | 2 jam yang lalu | – |
+| 66 | **real city** | 200+ | 100% | 20 jam yang lalu | – |
+| 67 | **al-qadisiyah vs al feiha** | 2 rb+ | 1.000% | 14 jam yang lalu | al qadisiyah, al qadsiah |
+| 68 | **banjir di jakarta utara** | 500+ | 200% | 5 jam yang lalu | – |
+| 69 | **kantor notaris** | 1 rb+ | 200% | 16 jam yang lalu | – |
+| 70 | **raptors vs nets** | 100+ | 100% | 1 jam yang lalu | – |
+| 71 | **deportivo cali** | 500+ | 200% | 5 jam yang lalu | deportivo cali vs atletico bucaramanga |
+| 72 | **kombes iman imanuddin** | 1 rb+ | 900% | 6 jam yang lalu | – |
+| 73 | **veda ega pratama moto3** | 500+ | 400% | 7 jam yang lalu | – |
+| 74 | **macarthur fc vs melbourne city** | 2 rb+ | 1.000% | 20 jam yang lalu | macarthur fc |
+| 75 | **kemendes** | 200+ | 100% | 2 jam yang lalu | – |
+| 76 | **igor jesus** | 500+ | 300% | 8 jam yang lalu | – |
+| 77 | **tentara bayaran** | 500+ | 300% | 6 jam yang lalu | – |
+| 78 | **burj khalifa** | 1 rb+ | 100% | 18 jam yang lalu | – |
+| 79 | **leganes** | 500+ | 100% | 12 jam yang lalu | – |
+| 80 | **maritimo** | 500+ | 100% | 13 jam yang lalu | – |
+| 81 | **mu vs brentford** | 500+ | 75% | 12 jam yang lalu | – |
+| 82 | **paul pogba** | 200+ | 100% | 7 jam yang lalu | – |
+| 83 | **alanyaspor vs konyaspor** | 1 rb+ | 600% | 11 jam yang lalu | – |
+| 84 | **madrid vs alavés** | 1 rb+ | 100% | 15 jam yang lalu | deportivo alavés, real madrid vs alavés |
+| 85 | **rusia** | 200+ | 100% | 6 jam yang lalu | – |
+| 86 | **kasimpasa** | 1 rb+ | 200% | 11 jam yang lalu | rizespor vs kasımpasa, liga turki |
+| 87 | **paris** | 500+ | 100% | 16 jam yang lalu | – |
+| 88 | **supratman andi agtas** | 200+ | 200% | 6 jam yang lalu | – |
+| 89 | **alanyaspor** | 1 rb+ | 200% | 16 jam yang lalu | – |
+| 90 | **paris vs** | 200+ | 100% | 8 jam yang lalu | – |
+| 91 | **kemenag cpns** | 500+ | 75% | 21 jam yang lalu | – |
+| 92 | **kejaksaan** | 1 rb+ | 100% | 21 jam yang lalu | kejaksaan agung |
+| 93 | **kejaksaan cpns** | 1 rb+ | 100% | 20 jam yang lalu | cpns kejaksaan 2026 |
+| 94 | **cpns kemenag** | 200+ | 75% | 17 jam yang lalu | – |
+| 95 | **brondby** | 500+ | 300% | 10 jam yang lalu | sonderjyske vs brøndby |
+| 96 | **aparatur sipil negara** | 200+ | 100% | 17 jam yang lalu | – |
+| 97 | **kementerian pendayagunaan aparatur negara dan reformasi birokrasi republik indonesia** | 100+ | 100% | 3 jam yang lalu | – |
+| 98 | **kabupaten tangerang** | 200+ | 100% | 4 jam yang lalu | – |
+| 99 | **harga emas antam terbaru** | 500+ | 200% | 15 jam yang lalu | – |
+| 100 | **kim jong-un** | 200+ | 100% | 4 jam yang lalu | – |
+| 101 | **megawati hangestri pertiwi** | 200+ | 600% | 3 jam yang lalu | – |
+| 102 | **al-kholood club vs al khaleej** | 1 rb+ | 300% | 16 jam yang lalu | al kholood |
+| 103 | **moon seon min** | 2 rb+ | 100% | 19 jam yang lalu | rcti live, streaming rcti, rcti live streaming |
+| 104 | **new zealand election results** | 200+ | 75% | 11 jam yang lalu | – |
+| 105 | **kepribadian** | 100+ | 100% | 4 jam yang lalu | – |
+| 106 | **kasus korupsi letjen widi prasetijono** | 500+ | 200% | 17 jam yang lalu | – |
+| 107 | **kecoak** | 100+ | 100% | 4 jam yang lalu | – |
+| 108 | **supercell** | 500+ | 100% | 17 jam yang lalu | – |
+| 109 | **prakiraan cuaca hari ini** | 200+ | 50% | 6 jam yang lalu | – |
+| 110 | **tim nasional sepak bola u 17 vietnam** | 1 rb+ | 200% | 23 jam yang lalu | vietnam u17 |
+| 111 | **vfl bochum** | 200+ | 200% | 10 jam yang lalu | – |
+| 112 | **shayne pattynama** | 200+ | 300% | 6 jam yang lalu | – |
+| 113 | **bundesliga** | 500+ | 75% | 6 jam yang lalu | – |
+| 114 | **bank mandiri taspen** | 500+ | 300% | 23 jam yang lalu | – |
+| 115 | **penambangan emas** | 100+ | 100% | 6 jam yang lalu | – |
+| 116 | **paris fc vs** | 100+ | 100% | 7 jam yang lalu | – |
+| 117 | **jadwal chelsea** | 200+ | 100% | 8 jam yang lalu | – |
+| 118 | **heidenheim vs nürnberg** | 200+ | 300% | 10 jam yang lalu | – |
+| 119 | **pulang kampung** | 500+ | 75% | 23 jam yang lalu | – |
+| 120 | **lionel messi** | 1 rb+ | 300% | 21 jam yang lalu | – |
+| 121 | **kepolisian daerah istimewa yogyakarta** | 500+ | 200% | 23 jam yang lalu | – |
+| 122 | **dedikasi** | 500+ | 100% | 22 jam yang lalu | – |
+| 123 | **klasemen southampton vs middlesbrough** | 100+ | 200% | 4 jam yang lalu | – |
+| 124 | **cuaca ekstrem** | 100+ | 100% | 6 jam yang lalu | – |
+| 125 | **simple plan jakarta** | 200+ | 75% | 17 jam yang lalu | – |
+| 126 | **apa itu black friday** | 200+ | 50% | 18 jam yang lalu | – |
+| 127 | **rcti** | 1 rb+ | 100% | 15 jam yang lalu | – |
+| 128 | **groningen fc** | 100+ | 100% | 7 jam yang lalu | – |
+| 129 | **bochum** | 100+ | 100% | 9 jam yang lalu | – |
+| 130 | **menu** | 100+ | 200% | 6 jam yang lalu | – |
+| 131 | **playstore** | 100+ | 75% | 5 jam yang lalu | – |
+| 132 | **jadwal motogp valencia 2026** | 200+ | 75% | 17 jam yang lalu | – |
+| 133 | **kementan** | 200+ | 75% | 21 jam yang lalu | – |
+| 134 | **yassir zabiri** | 100+ | 200% | 4 jam yang lalu | – |
+| 135 | **organisasi pakta pertahanan atlantik utara** | 200+ | 100% | 20 jam yang lalu | – |
+| 136 | **taylor** | 100+ | 200% | 8 jam yang lalu | – |
+| 137 | **github** | 200+ | 75% | 9 jam yang lalu | – |
+| 138 | **melbourne city** | 200+ | 100% | 19 jam yang lalu | – |
+| 139 | **dollar hari ini** | 500+ | 75% | 18 jam yang lalu | – |
+| 140 | **kode redeem fc** | 200+ | 200% | 22 jam yang lalu | – |
+| 141 | **rupiah** | 200+ | 200% | 17 jam yang lalu | – |
+| 142 | **beach city international stadium** | 200+ | 100% | 23 jam yang lalu | – |
+| 143 | **direktorat jenderal pajak, kementerian keuangan** | 100+ | 200% | 22 jam yang lalu | – |
+| 144 | **tas** | 100+ | 75% | 20 jam yang lalu | – |
+| 145 | **magrib surabaya** | 200+ | 50% | 17 jam yang lalu | – |
+| 146 | **kementerian pertanian** | 200+ | 75% | 20 jam yang lalu | – |
+| 147 | **subsidi energi** | 100+ | 100% | 16 jam yang lalu | – |
+| 148 | **dian swastatika sentosa** | 200+ | 300% | 16 jam yang lalu | – |
+| 149 | **prajogo pangestu** | 100+ | 75% | 16 jam yang lalu | – |
+| 150 | **japan prime minister** | 100+ | 100% | 23 jam yang lalu | – |
+| 151 | **kementerian imigrasi dan pemasyarakatan** | 100+ | 100% | 20 jam yang lalu | – |
 
 ## 📖 Keterangan Kolom
 
